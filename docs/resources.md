@@ -58,9 +58,9 @@ Other formats might consider:
 
 ### <a id="i">Introduction</a>
 
-In 2022, the ACL Ethics Committee (AEC) decided to propose to run a tutorial on ethics and its impact on ethics in both authoring and reviewing aspects for the community of CL/NLP scholars and practitioners.  As part of this process, the committee chairs and Luciana Benotti (a member of the committee) put together a the [proposal file](ethics-tutorial/proposal/Ethics_Tutorial_Proposal.pdf) and submitted it to the joint call for tutorial proposals.
+In 2022, the ACL Ethics Committee (AEC) decided to propose to run a tutorial on ethics and its impact on ethics in both authoring and reviewing aspects for the community of CL/NLP scholars and practitioners.  As part of this process, the committee chairs and Luciana Benotti (a member of the committee) put together a the [proposal file](https://github.com/acl-org/ethics-tutorial/blob/main/proposal/Ethics_Tutorial_Proposal.pdf) and submitted it to the joint call for tutorial proposals.
 
-The tutorial was eventually accepted to run at [EACL 2023](http://2023.eacl.org) (Dubrovnik, Croatia, 2-6 May 2023) on Saturday, 6 May as part of the 1/2-day AM events.  We produced a [teaser](ethics-tutorial/teaser/teaser.mp4) to accompany the [published tutorial abstract](https://aclanthology.org/2023.eacl-tutorials.4/).
+The tutorial was eventually accepted to run at [EACL 2023](http://2023.eacl.org) (Dubrovnik, Croatia, 2-6 May 2023) on Saturday, 6 May as part of the 1/2-day AM events.  We produced a [teaser](https://github.com/acl-org/ethics-tutorial/blob/main/teaser/teaser.mp4) to accompany the [published tutorial abstract](https://aclanthology.org/2023.eacl-tutorials.4/).
 
 The tutorial and its materials* were presented in English.  It was structured as per the proposal, in seven segments, each approximately 30 minutes long.  It was participatory in nature, requiring the audience to work in groups on synthetic problematic abstracts written by the proposers that represent common ethical issues experienced by ethics review chairs.  This required a good facilitator-to-group ratio, to ensure all of the participants had a chance to reflect, contribute and be heard, and for the facilitators to keep the session on track.
 
@@ -84,8 +84,8 @@ After introducing the organisers and the format and resources of the tutorial, t
 
 The presentation deck for the tutorial lives in a public, shared Google Slides permalink: [http://bit.ly/eacl23-ethics-slides](http://bit.ly/eacl23-ethics-slides) but for posterity, we have also archived forms here in this repository:
 
-* <a href="ethics-tutorial/slides/Understanding Ethics in NLP Authoring and Reviewing – Presentation Deck.pdf">PDF, local copy</a> - created from the Google Slides origin deck
-* <a href="ethics-tutorial/slides/Understanding Ethics in NLP Authoring and Reviewing – Presentation Deck.pptx">Microsoft Powerpoint, local copy</a> - created from the Google Slides origin deck
+* <a href="https://github.com/acl-org/ethics-tutorial/blob/main/slides/Understanding%20Ethics%20in%20NLP%20Authoring%20and%20Reviewing%20%E2%80%93%20Presentation%20Deck.pdf">PDF, local copy</a> - created from the Google Slides origin deck
+* <a href="https://github.com/acl-org/ethics-tutorial/blob/main/slides/Understanding%20Ethics%20in%20NLP%20Authoring%20and%20Reviewing%20%E2%80%93%20Presentation%20Deck.pptx">Microsoft Powerpoint, local copy</a> - created from the Google Slides origin deck
 
 Segment 1A (Slides 6-39) covers the definition and scope of ethics; its origins; virtue, deontological and utilitarian forms of ethics; experiments and policy reactions to ethical violation (Nuremburg Trials and Code, Belmont Report).  _This segment was presented by Karën Fort._
 
@@ -121,29 +121,29 @@ After both phases were finished, each group presented elements of their findings
 
 The activity was run using a scribe document where the organizers communicated information (the abstracts below and the instructions) and solicited the audience's feedback on the overall session.  
 
-* <a href="ethics-tutorial/activity/[Template] Understanding Ethics in NLP Authoring and Reviewing — Scribe Document.pdf">Template Scribe Document (.pdf)</a> - scrubbed
-* <a href="ethics-tutorial/activity/[Template] Understanding Ethics in NLP Authoring and Reviewing — Scribe Document.docx">Template Scribe Document (.docx)</a> - scrubbed
-* <a href="https://docs.google.com/document/d/1iNpIeXkelcpGl982fCj69RD6oQ61oQ0ijaf7VlcQUjc/edit?usp=sharing">Template Scribe Document (live Google Doc)</a> - view-only; scrubbed
+* <a href="https://github.com/acl-org/ethics-tutorial/blob/main/activity/[Template]%20Understanding%20Ethics%20in%20NLP%20Authoring%20and%20Reviewing%20%E2%80%94%20Scribe%20Document.pdf">Template Scribe Document (.pdf)</a> - scrubbed
+* <a href="https://github.com/acl-org/ethics-tutorial/blob/main/activity/[Template]%20Understanding%20Ethics%20in%20NLP%20Authoring%20and%20Reviewing%20%E2%80%94%20Scribe%20Document.docx">Template Scribe Document (.docx)</a> - scrubbed
+* <a href="https://docs.google.com/document/d/1iNpIeXkelcpGl982fCj69RD6oQ61oQ0ijaf7VlcQUjc/edit#heading=h.5wqi5yqsvt45">Template Scribe Document (live Google Doc)</a> - view-only; scrubbed
 
 However, for the group activities, we used an editable online presentation deck such that each group could create 1-3 slides (1 slide max in the first phease) in their respective subgroups.  
 
-* <a href="ethics-tutorial/activity/[Template] Understanding Ethics in NLP Authoring and Reviewing — Activity Deck.pdf">Template Group Slide Presentation (.pdf)</a> -scrubbed 
+* <a href="https://github.com/acl-org/ethics-tutorial/blob/main/activity/[Template]%20Understanding%20Ethics%20in%20NLP%20Authoring%20and%20Reviewing%20%E2%80%94%20Activity%20Deck.pdf">Template Group Slide Presentation (.pdf)</a> -scrubbed 
 * <a href="https://docs.google.com/presentation/d/1BOF8yXdk7JsBxhkCT0jHjdKTEDaqEKmtkLBwpAZK_-0/edit?usp=sharing">Template Group Slide Presentation (live Google Slide link)</a> - view only; scrubbed 
 
 We provide 6 abstracts below with a gloss of their topical concern.  In our EACL 2023 instance, we ran only the first three, due to the smaller number of participants.
 
-1. [Facial Recognition](ethics-tutorial/abstracts/1.txt)
-2. [Social Media Dataset Collection](ethics-tutorial/abstracts/2.txt)
-3. [Cost-prohibitive Language Models](ethics-tutorial/abstracts/3.txt)
-4. [Language Resource Collection from Protected Groups](ethics-tutorial/abstracts/4.txt)
-5. [Multilingual Sentiment and Crowdsourced Annotation](ethics-tutorial/abstracts/5.txt)
-6. [Large language model use in healthcare](ethics-tutorial/abstracts/6.txt)
+1. [Facial Recognition](https://github.com/acl-org/ethics-tutorial/blob/main/abstracts/1.txt)
+2. [Social Media Dataset Collection](https://github.com/acl-org/ethics-tutorial/blob/main/abstracts/2.txt)
+3. [Cost-prohibitive Language Models](https://github.com/acl-org/ethics-tutorial/blob/main/abstracts/3.txt)
+4. [Language Resource Collection from Protected Groups](https://github.com/acl-org/ethics-tutorial/blob/main/abstracts/4.txt)
+5. [Multilingual Sentiment and Crowdsourced Annotation](https://github.com/acl-org/ethics-tutorial/blob/main/abstracts/5.txt)
+6. [Large language model use in healthcare](https://github.com/acl-org/ethics-tutorial/blob/main/abstracts/6.txt)
 
 ### <a id="r">Resources</a>
 
 * The ACL Ethics Stakeholder Survey - Prior to the tutorial, the AEC also conducted a survey of our ACL stakeholders, to help priortize ethics needs of our community.  This tutorial is a direct result of that mandate.  To be presented live at ACL (Toronto, Canada) on 11 July 2023.
-  * Full report for the survey (draft): [Yes, We Care (more)! Results of the 2021 Ethics and Natural Language Processing Survey](ethics-tutorial/survey/yes_we_care_more_results_of_the_2021_ethics_and_natural_language_processing_survey.pdf)
-  * [Associated presentation slides](ethics-tutorial/survey/230724-ACL-Ethics-Commitee-Panel.pdf)
+  * Full report for the survey (draft): [Yes, We Care (more)! Results of the 2021 Ethics and Natural Language Processing Survey](https://github.com/acl-org/ethics-tutorial/blob/main/survey/yes_we_care_more_results_of_the_2021_ethics_and_natural_language_processing_survey.pdf)
+  * [Associated presentation slides](https://github.com/acl-org/ethics-tutorial/blob/main/survey/230724-ACL-Ethics-Commitee-Panel.pdf)
 * The ACL Ethics Reading List - [https://github.com/acl-org/ethics-reading-list](https://github.com/acl-org/ethics-reading-list) - also mentioned in Slide 110
 
 The tutorial (Slide 109) also concluded with a list of faculty courses (by our presenters, certainly there are more out there) that have also taught similar topics.  For expediency we list them directly here:
@@ -156,7 +156,7 @@ https://sites.google.com/view/etica-practica-cd/
 
 #### Copyright and Acknowledgements
 
-All materials in this repo are [CC-BY-4.0](ethics-tutorial/LICENSE-CC-BY-4.0.md)
+All materials in this repo are [CC-BY-4.0](https://github.com/acl-org/ethics-tutorial/blob/main/LICENSE-CC-BY-4.0.md)
 
 Our presenters would also like to thank the entire ACL Ethics Committee (AEC) for their support and endorsement of the process.
 
