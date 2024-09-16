@@ -19,13 +19,19 @@ Authors:
 We recommend using our base materials here and adapting them to your setting.  Minimally, you need to create your own shortlinks and URL codes to your version of the materials before running, as the archived materials reference our EACL 2023 instance.
 
 For our tutorial setting in an audience participatory style and approximately 20+ participants and 4 organisers, it was important to:
+
 * limit the number of groups so that each group could present within the session's time limit;
+
 * designate a particular organiser to facilitate virtual participants;
+
 * have live edit access to online documents, to allow participant leads to note take and present.
 
 Other formats might consider:
+
 * Lecture only: use and adapt the lecture materials from the first and seventh segments of the tutorial.
+
 * Experiential only: use and adapt Segments 2-6, which asks participants to read and critique abstracts that bring up common ethical issues in our community.
+
 * Student (Homework) Assignment: curate sources from the accompanying [Ethics Reading List](#erl) that the committee maintains, and ask participants to read and write their reflections on.
 
 **If you run a course, tutorial or other session based on these materials, we'd love to hear from you! Please get in contact with us, and we may also (with your permission) list your course or materials in the [Resource](#r) segment.  Also please do cite our tutorial abstract as a means of acknowledging the helpfulness of the materials.  Thank you!**
