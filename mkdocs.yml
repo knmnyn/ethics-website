@@ -1,16 +1,23 @@
-site_name: ACL Ethics Tutorial
+site_name: ACL Ethics
 nav:
   - Home: index.md
   - Schedule: schedule.md
-  - Speakers: speakers.md
+  - Committee: committee.md
+  - Tutorials:
+        - tutorials/index.md
+        - "Past tutorials":
+          - tutorials/EACL_2023.md  
   - Resources: resources.md
 theme:
   name: material
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
     - navigation.sections
     - toc.integrate
     - navigation.top
+    - navigation.prune
     - search.suggest
     - search.highlight
     - content.tabs.link

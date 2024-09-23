@@ -1,4 +1,4 @@
-# Speakers
+# Committee
 
 <table>
     <tr>
