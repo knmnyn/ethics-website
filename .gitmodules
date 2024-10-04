@@ -1,0 +1,3 @@
+[submodule "docs/resources/ethics-reading-list"]
+	path = docs/resources/ethics-reading-list
+	url = git@github.com:acl-org/ethics-reading-list.git
