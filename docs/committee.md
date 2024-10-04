@@ -1,16 +1,16 @@
-# Committee
+# Members of the ACL Ethics Committee
 
 <table>
     <tr>
-        <td><img src="https://i.imgur.com/KVKWoYa.jpeg" alt="Luciana Benotti"></td>
+        <td><img src="https://i.imgur.com/KVKWoYa.jpeg" alt="Luciana Benotti" width="300"></td>
         <td>
             <strong>Luciana Benotti</strong> (<a href="mailto:luciana.benotti@unc.edu.ar">luciana.benotti@unc.edu.ar</a>, she/her) is an Associate Professor at the Universidad Nacional de Córdoba, in Argentina. Her research interests cover many aspects of situated and grounded language, including the study of misunderstandings, bias, stereotypes, and clarification requests. She is the elected chair of the NAACL executive board and is also serving as a member at large of the ACL Ethics committee.
         </td>
     </tr>
     <tr>
-        <td><img src="https://i.imgur.com/lOYzz6M.jpeg" alt="Fanny Ducel"></td>
+        <td><img src="https://i.imgur.com/iauGcOj.jpeg" alt="Mark Drezde"></td>
         <td>
-            <strong>Fanny Ducel</strong> (<a href="mailto:fanny.ducel@universite-paris-saclay.fr">fanny.ducel@universite-paris-saclay.fr</a>, she/her) is a PhD candidate at the Université Paris-Saclay, in France. She works on stereotypical biases in LLMs. She also teaches ethics to international NLP graduates at the Université de Lorraine (France).
+            <strong>Mark Drezde</strong> (<a href="mailto:mdredze@cs.jhu.edu">mdredze@cs.jhu.edu</a>, he/him) is a Professor of Computer Science at Johns Hopkins University. I am the (Interim) Deputy Director for the JHU Data Science and AI Institute and the Associate Head of Research and Strategic Initiatives for the Department of Computer Science.
         </td>
     </tr>
     <tr>
@@ -20,9 +20,15 @@
         </td>
     </tr>
     <tr>
-        <td><img src="https://i.imgur.com/pxF3jni.jpeg" alt="Guido Ivetta"></td>
+        <td><img src="https://i.imgur.com/QTFwkTQ.jpeg" alt="Pascale Fung"></td>
         <td>
-            <strong>Guido Ivetta</strong> (<a href="mailto:guidoivetta@mi.unc.edu.ar">guidoivetta@mi.unc.edu.ar</a>, he/him) is a PhD candidate at the Universidad Nacional de Córdoba, in Argentina. His work focuses on language model calibration and biases.
+            <strong>Pascale Fung</strong> (<a href="mailto:pascale@ece.ust.hk">pascale@ece.ust.hk</a>, she/her) is a Chair Professor at the Department of Electronic & Computer Engineering at The Hong Kong University of Science & Technology (HKUST), and a visiting professor at the Central Academy of Fine Arts in Beijing.
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://i.imgur.com/dngVYOF.jpeg" alt="Dirk Hovy"></td>
+        <td>
+            <strong>Dirk Hovy</strong> (<a href="mailto:dirk.hovy@unibocconi.it">dirk.hovy@unibocconi.it</a>, he/him) is a Full Professor in the Computing Sciences Department of Bocconi University in Milan, where he leads the MilaNLP lab together with Debora Nozza. He is also the scientific director of the Data and Marketing Insights research unit. 
         </td>
     </tr>
     <tr>
@@ -32,9 +38,15 @@
         </td>
     </tr>
     <tr>
-        <td><img src="https://i.imgur.com/qPPq4Oc.jpeg" alt="Minzhi Li"></td>
+        <td><img src="https://i.imgur.com/NXwfZE4.jpeg" alt="Jin-Dong Kim"></td>
         <td>
-            <strong>Minzhi Li</strong> (<a href="mailto:li.minzhi@u.nus.edu">li.minzhi@u.nus.edu</a>, she/her) is a PhD candidate at the National University of Singapore. Her main research interest is socially-aware NLP.
+            <strong>Jin-Dong Kim</strong> (<a href="mailto:jdkim@dbcls.rois.ac.jp">jdkim@dbcls.rois.ac.jp</a>, he/him) 
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://i.imgur.com/VhXnxHB.jpeg" alt="Malvina Nissim"></td>
+        <td>
+            <strong>Malvina Nissim</strong> (<a href="mailto:m.nissim@rug.nl">m.nissim@rug.nl</a>, she/her) works in Natural Language Processing and its application to societally relevant problems. Besides her research activities she is particularly active in science communication and outreach, including to school children, especially towards an aware and responsible use of language technologies. She was also invited by the European Council to give a plenary lecture on gender bias in Artificial Intelligence on International Women’s Day 2021. She was elected as the 2016 University of Groningen Lecturer of the Year.
         </td>
     </tr>
     <tr>
@@ -44,3 +56,27 @@
         </td>
     </tr>
 </table>
+
+# Student Members of the ACL Ethics Committee
+
+<table>
+    <tr>
+        <td><img src="https://i.imgur.com/lOYzz6M.jpeg" alt="Fanny Ducel"></td>
+        <td>
+            <strong>Fanny Ducel</strong> (<a href="mailto:fanny.ducel@universite-paris-saclay.fr">fanny.ducel@universite-paris-saclay.fr</a>, she/her) is a PhD candidate at the Université Paris-Saclay, in France. She works on stereotypical biases in LLMs. She also teaches ethics to international NLP graduates at the Université de Lorraine (France).
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://i.imgur.com/pxF3jni.jpeg" alt="Guido Ivetta"></td>
+        <td>
+            <strong>Guido Ivetta</strong> (<a href="mailto:guidoivetta@mi.unc.edu.ar">guidoivetta@mi.unc.edu.ar</a>, he/him) is a PhD candidate at the Universidad Nacional de Córdoba, in Argentina. His work focuses on language model calibration and biases.
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://i.imgur.com/qPPq4Oc.jpeg" alt="Minzhi Li"></td>
+        <td>
+            <strong>Minzhi Li</strong> (<a href="mailto:li.minzhi@u.nus.edu">li.minzhi@u.nus.edu</a>, she/her) is a PhD candidate at the National University of Singapore. Her main research interest is socially-aware NLP.
+        </td>
+    </tr>
+</table>
+
