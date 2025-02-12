@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Welcome to the ACL Ethics Website
 
 ## 🌟 Welcome! 🌟
@@ -6,10 +11,10 @@ We are delighted to have you here at the **ACL Ethics Website**. Our mission is 
 
 ### What You Will Find Here
 
-- **[Schedule](https://acl-org.github.io/ethics-website/schedule/)**: Stay updated with our latest events, workshops, and meetings.
-- **[Committee](https://acl-org.github.io/ethics-website/committee/)**: Find out more about the members of the ACL Ethics Committee and their roles.
-- **[Tutorials](https://acl-org.github.io/ethics-website/tutorials/)**: Explore past tutorials from ACL conferences we have developed.
-- **[Resources](https://acl-org.github.io/ethics-website/resources/)**: Access to a variety of resources and guidelines for research and publication.
+- **[Schedule](https://ethics.aclweb.org/schedule/)**: Stay updated with our latest events, workshops, and meetings.
+- **[Committee](https://ethics.aclweb.org/committee/)**: Find out more about the members of the ACL Ethics Committee and their roles.
+- **[Tutorials](https://ethics.aclweb.org/tutorials/)**: Explore past tutorials from ACL conferences we have developed.
+- **[Resources](https://ethics.aclweb.org/resources/)**: Access to a variety of resources and guidelines for research and publication.
 
 ### Get Involved
 

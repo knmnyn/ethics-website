@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # Members of the ACL Ethics Committee
 
 <table>
