@@ -13,21 +13,21 @@ nav:
         - resources/index.md
         - "Reading List":
           - resources/ethics-reading-list/index.md
-          - "single-file-header": resources/ethics-reading-list/single-file-header.md
-          - "biases": resources/ethics-reading-list/t-biases.md
-          - "crowdsourcing-issues": resources/ethics-reading-list/t-crowdsourcing-issues.md
-          - "data": resources/ethics-reading-list/t-data.md
-          - "dual-use": resources/ethics-reading-list/t-dual-use.md
-          - "environmental-impact": resources/ethics-reading-list/t-environmental-impact.md
-          - "evaluation": resources/ethics-reading-list/t-evaluation.md
-          - "general-resources": resources/ethics-reading-list/t-general-resources.md
-          - "language-diversity": resources/ethics-reading-list/t-language-diversity.md
-          - "model-issues": resources/ethics-reading-list/t-model-issues.md
-          - "uncategorized": resources/ethics-reading-list/t-uncategorized.md
-          - "post": resources/ethics-reading-list/type-post.md
-          - "preprint": resources/ethics-reading-list/type-preprint.md
-          - "published": resources/ethics-reading-list/type-published.md
-          - "report": resources/ethics-reading-list/type-report.md
+          - "topic-single-file-header": resources/ethics-reading-list/single-file-header.md
+          - "topic-biases": resources/ethics-reading-list/t-biases.md
+          - "topic-crowdsourcing-issues": resources/ethics-reading-list/t-crowdsourcing-issues.md
+          - "topic-data": resources/ethics-reading-list/t-data.md
+          - "topic-dual-use": resources/ethics-reading-list/t-dual-use.md
+          - "topic-environmental-impact": resources/ethics-reading-list/t-environmental-impact.md
+          - "topic-evaluation": resources/ethics-reading-list/t-evaluation.md
+          - "topic-general-resources": resources/ethics-reading-list/t-general-resources.md
+          - "topic-language-diversity": resources/ethics-reading-list/t-language-diversity.md
+          - "topic-model-issues": resources/ethics-reading-list/t-model-issues.md
+          - "topic-uncategorized": resources/ethics-reading-list/t-uncategorized.md
+          - "type-post": resources/ethics-reading-list/type-post.md
+          - "type-preprint": resources/ethics-reading-list/type-preprint.md
+          - "type-published": resources/ethics-reading-list/type-published.md
+          - "type-report": resources/ethics-reading-list/type-report.md
 theme:
   name: material
   features:
