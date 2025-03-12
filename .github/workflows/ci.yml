@@ -36,5 +36,4 @@ jobs:
         with:
           name: build
           path: build
-      - name: Deploy to GitHub Pages
       
