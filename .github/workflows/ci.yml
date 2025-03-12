@@ -26,5 +26,5 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install mkdocs-material 
-      - run: echo 'ethics.aclweb.org' > ./build/CNAME && gh-pages -d build
+      - run: echo 'ethics.aclweb.org' > ./build/CNAME && gh-pages -d build"
       - run: mkdocs gh-deploy --force
