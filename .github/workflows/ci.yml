@@ -25,15 +25,9 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs-material 
-      - run: mkdocs gh-deploy --force
+      - run: pip install mkdocs-material
       - name: Create CNAME file
         run: |
-          mkdir -p ./build
-          echo 'ethics.aclweb.org' > ./build/CNAME
-      - name: Deploy to GitHub Pages
-        uses: actions/upload-artifact@v4
-        with:
-          name: build
-          path: build
+          echo 'ethics.aclweb.org' > docs/CNAME
+      - run: mkdocs gh-deploy --force
       
