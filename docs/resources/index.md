@@ -9,3 +9,11 @@ In this page, we will compile all relevant materials necessary for crafting ethi
 
 ### What You Will Find Here
 - **[Reading list](https://ethics.aclweb.org/resources/ethics-reading-list/)**: A curated list of essential readings that cover various aspects of ethical research. This includes foundational texts, recent papers, and influential articles that provide insights and guidance on ethical considerations in research.
+
+- **[Responsible Research Checklist](https://aclrollingreview.org/responsibleNLPresearch/)**: A checklist to help you think about your research and whether or not it complies with the ACL Code of Ethics. 
+
+- **Ethical review recommendations**: TBA. The ACL Ethics committee is currently working on a detailed document compiling all the information on ethical reviewing for reviewers, ethical reviewers, ethical chairs, and conference chairs.
+
+- **[Teaching material](tutorials/index.md)**: The tutorials resources include material that can be re-used to teach ethics in an academic context.
+
+
