@@ -1,8 +1,12 @@
 site_name: ACL Ethics
 nav:
   - Home: index.md
-  - Schedule: schedule.md
-  - Committee: committee.md
+  - Roles:
+    - Authors: roles/authors.md
+    - Instructors: roles/instructors.md
+    - Organisers: roles/organisers.md
+    - Researchers: roles/researchers.md
+    - Reviewers: roles/reviewers.md
   - Tutorials:
         - tutorials/index.md
         - "Past tutorials":
@@ -28,6 +32,8 @@ nav:
           - "type-preprint": resources/ethics-reading-list/type-preprint.md
           - "type-published": resources/ethics-reading-list/type-published.md
           - "type-report": resources/ethics-reading-list/type-report.md
+  - Schedule: schedule.md
+  - Committee: committee.md
 theme:
   name: material
   features:
