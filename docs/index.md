@@ -22,9 +22,3 @@ Ethics reviewing is arguably one of the most important contributions we as a com
 **Are there good resources to teach Ethics?** You are a researcher, lecturer, reader or professor in CL/NLP and want to raise awareness on ethical issues amongst your students – either BSc, MSc or PhD level. Then the [Resource section](resources/index.md) would be right for you. 
 
 **I am interested in Ethics Research, where should I start?** We compiled a list of relevant NLP papers that address a variety of topics: biases,  crowdsourcing issues, dual use, environmental impact,... You can find this Reading list, and contribute to it, in the [Resource section](resources/ethics-reading-list/).
-
----
-
-Thank you for visiting, and we look forward to your active participation!
-
-**The ACL Ethics Committee**
