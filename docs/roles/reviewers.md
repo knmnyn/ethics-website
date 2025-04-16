@@ -3,7 +3,7 @@ hide:
   - navigation
   - toc
 ---
-Reviewers.
+Reviewers
 
-Prospective Reviewers.
+Prospective Reviewers
 

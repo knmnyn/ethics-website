@@ -3,8 +3,8 @@ hide:
   - navigation
   - toc
 ---
-Authors.
+Authors
 
-Prospective Authors.
+Prospective Authors
 
 Addressing 
