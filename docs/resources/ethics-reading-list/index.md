@@ -30,6 +30,7 @@ This list is intentionally kept with simple formatting in Markdown to allow mach
 * [Karën Fort](https://members.loria.fr/KFort/) (Sorbonne Université and LORIA)
 * [Min-Yen Kan](http://www.comp.nus.edu.sg/~kanmy) (National University of Singapore)
 * [Yisong Miao](http://yisong.me) (National University of Singapore)
+* [Aurélie Névéol](https://perso.limsi.fr/neveol) (CNRS, Université Paris-Saclay)
 * [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/) (University of Washington)
 
 # Contents
@@ -86,6 +87,8 @@ We have tagged papers with several topic tags and bibliographic type.  You can c
 ### 2023
 
 [[Contents](#contents)]
+
+* Li, P., Yang, J., Islam, M. A., & Ren, S. (2023). Making ai less" thirsty": Uncovering and addressing the secret water footprint of ai models.  [[paper](https://arxiv.org/pdf/2304.03271)] [![preprint](https://img.shields.io/badge/type-preprint-lightgrey)](type-preprint.md) [![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)](t-environmental-impact.md)
 
 * Orevaoghene Ahia, Sachin Kumar, Hila Gonen, Jungo Kasai, David Mortensen, Noah Smith, and Yulia Tsvetkov. (2023, December). Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 9904–9923, Singapore. Association for Computational Linguistics. [[paper](https://aclanthology.org/2023.emnlp-main.614.pdf)] [![Model Issues](https://img.shields.io/badge/t-model%20issues-yellow)](t-model-issues.md)  [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
 
