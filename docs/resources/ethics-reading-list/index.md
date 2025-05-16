@@ -81,6 +81,10 @@ We have tagged papers with several topic tags and bibliographic type.  You can c
 
 * Luccioni, A. S., Strubell, E., & Crawford, K. (2025). From Efficiency Gains to Rebound Effects: The Problem of Jevons' Paradox in AI's Polarized Environmental Debate. [[paper](https://arxiv.org/pdf/2501.16548)] [![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)](t-environmental-impact.md)
 [![preprint](https://img.shields.io/badge/type-preprint-lightgrey)](type-preprint.md)
+
+* Mitchell M, Attanasio G, Baldini I, Clinciu M, Clive J, Delobelle P, Dey M, Hamilton S, Dill T, Doughman J, Dutt R, Ghosh A, Zosa Forde J, Holtermann C, Kaffee LA, Laud T, Lauscher A, Lopez-Davila RL, Masoud M, Nangia N, Ovalle A, Pistilli G, Radev D, Savoldi B, Raheja V, Qin J, Ploeger E, Subramonian A, Dhole K, Sun K, Djanibekov A, Mansurov J, Yin K, Villa Cueva E, Mukherjee S, Huang J, Shen X, Gala J, Al-Ali H, Djanibekov T, Mukhituly N, Nie S, Sharma S, Stanczak K, Szczechla E, Timponi Torrent T, Tunuguntla D, Viridiano M, Van Der Wal O, Yakefu A, Névéol A, Zhang M, Zink S, Talat Z. SHADES: Towards a Multilingual Assessment of Stereotypes in Large Language Models. Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers), 2025:11995–12041.  [[paper](https://aclanthology.org/2025.naacl-long.600.pdf)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+
+
 * Ducel F, Hiebel N, Ferret O, Fort K, Névéol A. “Women do not have heart attacks!" Gender Biases in Automatically Generated Clinical Cases in French. Findings of the Association for Computational Linguistics: NAACL 2025:7145–7159. [[paper](https://aclanthology.org/2025.findings-naacl.398.pdf)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
 
   
@@ -88,19 +92,33 @@ We have tagged papers with several topic tags and bibliographic type.  You can c
 
 [[Contents](#contents)]
 
+* Kantharuban, A., Milbauer, J., Strubell, E., & Neubig, G. (2024). Stereotype or personalization? user identity biases chatbot recommendations [[paper](https://arxiv.org/pdf/2410.05613)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![preprint](https://img.shields.io/badge/type-preprint-lightgrey)](type-preprint.md)
+
+
+
 * Ducel F, Névéol A, Fort K. “You’ll be a nurse, my son!” Automatically assessing gender biases in autoregressive language models in French and Italian Language Resources and Evaluation. Springer, Berlin Heidelberg, Germany. 2024:1-29 [[paper](https://link.springer.com/article/10.1007/s10579-024-09780-6)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![Evaluation](https://img.shields.io/badge/t-evaluation-orange)](t-evaluation.md)
  [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+
 * Morand C, Névéol A, Ligozat AL. MLCA: a tool for Machine Learning Life Cycle Assessment. International Conference on ICT for Sustainability (ICT4S). 2024. [[paper](https://hal.science/hal-04643414v1)] [![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)](t-environmental-impact.md)
  [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+
 * Amanda Cercas Curry, Giuseppe Attanasio, Zeerak Talat, and Dirk Hovy. (2024, August). Classist Tools: Social Class Correlates with Performance in NLP. In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 12643–12655, Bangkok, Thailand. Association for Computational Linguistics. [[paper](https://aclanthology.org/2024.acl-long.682.pdf)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+  
 * Helm, P., Bella, G., Koch, G. et al. (2024). Diversity and language technology: how language modeling bias causes epistemic injustice. Ethics and Information Technology.  [[paper](https://link.springer.com/article/10.1007/s10676-023-09742-6)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+  
 * Hofmann, V., Kalluri, P.R., Jurafsky, D. et al. (2024). AI generates covertly racist decisions about people based on their dialect. Nature 633, 147–154. https://doi.org/10.1038/s41586-024-07856-5  [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
 
 ### 2023
 
 [[Contents](#contents)]
 
+* Gustavo Gonçalves and Emma Strubell. 2023. Understanding the Effect of Model Compression on Social Bias in Large Language Models. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 2663–2675, Singapore. Association for Computational Linguistics. [[paper](https://aclanthology.org/2023.emnlp-main.161/)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![Model Issues](https://img.shields.io/badge/t-model%20issues-yellow)](t-model-issues.md)
+ [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+
 * Li, P., Yang, J., Islam, M. A., & Ren, S. (2023). Making ai less" thirsty": Uncovering and addressing the secret water footprint of ai models.  [[paper](https://arxiv.org/pdf/2304.03271)] [![preprint](https://img.shields.io/badge/type-preprint-lightgrey)](type-preprint.md) [![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)](t-environmental-impact.md)
+
+* Sasha Luccioni, Yacine Jernite, and Emma Strubell. 2024. Power Hungry Processing: Watts Driving the Cost of AI Deployment? In Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency (FAccT '24). Association for Computing Machinery, New York, NY, USA, 85–99.  [[paper](https://dl.acm.org/doi/pdf/10.1145/3630106.3658542)] [![preprint](https://img.shields.io/badge/type-preprint-lightgrey)](type-preprint.md) [![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)](t-environmental-impact.md)
+
 
 * Orevaoghene Ahia, Sachin Kumar, Hila Gonen, Jungo Kasai, David Mortensen, Noah Smith, and Yulia Tsvetkov. (2023, December). Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 9904–9923, Singapore. Association for Computational Linguistics. [[paper](https://aclanthology.org/2023.emnlp-main.614.pdf)] [![Model Issues](https://img.shields.io/badge/t-model%20issues-yellow)](t-model-issues.md)  [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
 
