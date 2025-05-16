@@ -76,10 +76,22 @@ We have tagged papers with several topic tags and bibliographic type.  You can c
 [![post](https://img.shields.io/badge/type-post-lightgrey)](type-post.md)
 [![report](https://img.shields.io/badge/type-report-lightgrey)](type-report.md)
 
+### 2025
+[[Contents](#contents)]
+
+* Luccioni, A. S., Strubell, E., & Crawford, K. (2025). From Efficiency Gains to Rebound Effects: The Problem of Jevons' Paradox in AI's Polarized Environmental Debate. [[paper](https://arxiv.org/pdf/2501.16548)] [![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)](t-environmental-impact.md)
+[![preprint](https://img.shields.io/badge/type-preprint-lightgrey)](type-preprint.md)
+* Ducel F, Hiebel N, Ferret O, Fort K, Névéol A. “Women do not have heart attacks!" Gender Biases in Automatically Generated Clinical Cases in French. Findings of the Association for Computational Linguistics: NAACL 2025:7145–7159. [[paper](https://aclanthology.org/2025.findings-naacl.398.pdf)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+
+  
 ### 2024
 
 [[Contents](#contents)]
 
+* Ducel F, Névéol A, Fort K. “You’ll be a nurse, my son!” Automatically assessing gender biases in autoregressive language models in French and Italian Language Resources and Evaluation. Springer, Berlin Heidelberg, Germany. 2024:1-29 [[paper](https://link.springer.com/article/10.1007/s10579-024-09780-6)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![Evaluation](https://img.shields.io/badge/t-evaluation-orange)](t-evaluation.md)
+ [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+* Morand C, Névéol A, Ligozat AL. MLCA: a tool for Machine Learning Life Cycle Assessment. International Conference on ICT for Sustainability (ICT4S). 2024. [[paper](https://hal.science/hal-04643414v1)] [![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)](t-environmental-impact.md)
+ [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
 * Amanda Cercas Curry, Giuseppe Attanasio, Zeerak Talat, and Dirk Hovy. (2024, August). Classist Tools: Social Class Correlates with Performance in NLP. In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 12643–12655, Bangkok, Thailand. Association for Computational Linguistics. [[paper](https://aclanthology.org/2024.acl-long.682.pdf)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
 * Helm, P., Bella, G., Koch, G. et al. (2024). Diversity and language technology: how language modeling bias causes epistemic injustice. Ethics and Information Technology.  [[paper](https://link.springer.com/article/10.1007/s10676-023-09742-6)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
 * Hofmann, V., Kalluri, P.R., Jurafsky, D. et al. (2024). AI generates covertly racist decisions about people based on their dialect. Nature 633, 147–154. https://doi.org/10.1038/s41586-024-07856-5  [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
