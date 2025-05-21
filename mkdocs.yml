@@ -32,6 +32,8 @@ nav:
           - "type-preprint": resources/ethics-reading-list/type-preprint.md
           - "type-published": resources/ethics-reading-list/type-published.md
           - "type-report": resources/ethics-reading-list/type-report.md
+        - "Ethical Reviewing Recommendations":
+          - resources/ethical-review-recommendations/index.md
   - Schedule: schedule.md
   - Committee: committee.md
 theme:
