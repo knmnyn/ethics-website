@@ -4,23 +4,23 @@ This document aims at regrouping information and recommendations about ethical r
 
 This was made by combining information from different sources, either pasting them or rephrasing them. The structure and patchwork was done by Ella Li, Minzhi and Fanny Ducel. The conversion to Markdown was done by Guido Ivetta: 
 
-- [![](https://img.shields.io/badge/Ethics_Reviewing_Recommendations_for_NLP/CL_Events-red)](https://docs.google.com/document/d/1rBqmZdAbLUXy7TJuACWziyMguUhnASB2KardMdwP98w/edit?tab=t.0) – Karën Fort and Min-Yen Kan
+- ![](https://img.shields.io/badge/Ethics_Reviewing_Recommendations_for_NLP/CL_Events-red) – Karën Fort and Min-Yen Kan
 
-- [![](https://img.shields.io/badge/Chairing_Ethics_Committee_--_Lessons_from_LREC--COLING_2024-pink)](https://docs.google.com/document/d/1olM2UJ-E4XTX39SdKrarOODvXoSDId7w1jSsIFcwSqs/edit?tab=t.0#heading=h.wuhplkpfrye2) – Jin-Dong Kim and Min-Yen Kan
+- ![](https://img.shields.io/badge/Chairing_Ethics_Committee_--_Lessons_from_LREC--COLING_2024-pink) – Jin-Dong Kim and Min-Yen Kan
 
-- [![](https://img.shields.io/badge/ARR_Ethics_Chairing_Guidelines-gold)](https://docs.google.com/document/d/1MaeMJQkQgSUSMK8uIgS1S_KKzSBYXR8kbqYeNYM8YlQ/edit?tab=t.0#heading=h.sgssn43zt2by) – Vinodkumar Prabhakaran and Malihe Alikhani (ACL Rolling Review Ethics Chairs), with help from NAACL 2024 Ethics Chairs, EACL 2024 Ethics Chairs, and EMNLP 2024 ethics chair
+- ![](https://img.shields.io/badge/ARR_Ethics_Chairing_Guidelines-gold) – Vinodkumar Prabhakaran and Malihe Alikhani (ACL Rolling Review Ethics Chairs), with help from NAACL 2024 Ethics Chairs, EACL 2024 Ethics Chairs, and EMNLP 2024 ethics chair
 
-- [![](https://img.shields.io/badge/Ethical_Reviewing_Recommendation_--_Draft-blue)](https://docs.google.com/document/d/1c35sXHOjI8K-SuNfcgdhN5v1M4zTB8f7RQwxzUat4r0/edit?usp=sharing) – Karen Fort and Min-Yen Kan (No need to formally cite)
+- ![](https://img.shields.io/badge/Ethical_Reviewing_Recommendation_--_Draft-blue) – Karen Fort and Min-Yen Kan (No need to formally cite)
 
-- [![](https://img.shields.io/badge/Responsible_NLP_Research-purple)](https://aclrollingreview.org/responsibleNLPresearch) – developed by Marine Carpuat, Marie-Catherine de Marneffe and Ivan Vladimir Meza Ruiz, the NAACL 2022 program chairs, working with Jesse Dodge, and with the ARR editors in chief. Additional input was provided by the other NAACL 2022 reproducibility chairs, Margot Mieskes, Anna Rogers, and the ACL Ethics Committee. Updated for ARR October 2024 cycle by Anna Rogers, based on discussions with ARR board.
+- ![](https://img.shields.io/badge/Responsible_NLP_Research-purple) – developed by Marine Carpuat, Marie-Catherine de Marneffe and Ivan Vladimir Meza Ruiz, the NAACL 2022 program chairs, working with Jesse Dodge, and with the ARR editors in chief. Additional input was provided by the other NAACL 2022 reproducibility chairs, Margot Mieskes, Anna Rogers, and the ACL Ethics Committee. Updated for ARR October 2024 cycle by Anna Rogers, based on discussions with ARR board.
 
-- [![](https://img.shields.io/badge/Ethics_Reviewer_Tutorial-green)](https://aclrollingreview.org/ethicsreviewertutorial) – drafted for ARR by Amanda Stent and reviewed and edited by the ARR Editors in Chief, Tim Baldwin, Anna Rogers, the NAACL 2022 ethics chairs Kai-Wei Chang and Diyi Yang, and members of the [ACL Ethics Committee](https://www.aclweb.org/adminwiki/index.php?title=Formation_of_the_ACL_Ethics_Committee).
+- ![](https://img.shields.io/badge/Ethics_Reviewer_Tutorial-green) – drafted for ARR by Amanda Stent and reviewed and edited by the ARR Editors in Chief, Tim Baldwin, Anna Rogers, the NAACL 2022 ethics chairs Kai-Wei Chang and Diyi Yang, and members of the [ACL Ethics Committee](https://www.aclweb.org/adminwiki/index.php?title=Formation_of_the_ACL_Ethics_Committee).
 
-- [![](https://img.shields.io/badge/Ethics_Flagging_Guidelines-orange)](https://aclrollingreview.org/ethics-flagging-guidelines/) – Malihe Alikhani and Vinodkumar Prabhakaran
+- ![](https://img.shields.io/badge/Ethics_Flagging_Guidelines-orange) – Malihe Alikhani and Vinodkumar Prabhakaran
 
-- [![](https://img.shields.io/badge/Ethics_Tutorials-blueviolet)](https://ethics.aclweb.org/tutorials/) – Luciana Benotti, Karën Fort, Min-Yen Kan, Yulia Tsvetkov
+- ![](https://img.shields.io/badge/Ethics_Tutorials-blueviolet) – Luciana Benotti, Karën Fort, Min-Yen Kan, Yulia Tsvetkov
 
-## 1. General introduction to ethics reviewing [![](https://img.shields.io/badge/Ethical_Reviewing_Recommendation_--_Draft-blue)](https://docs.google.com/document/d/1c35sXHOjI8K-SuNfcgdhN5v1M4zTB8f7RQwxzUat4r0/edit?usp=sharing) [![](https://img.shields.io/badge/Ethics_Flagging_Guidelines-orange)](https://aclrollingreview.org/ethics-flagging-guidelines/)
+## 1. General introduction to ethics reviewing ![](https://img.shields.io/badge/Ethical_Reviewing_Recommendation_--_Draft-blue) ![](https://img.shields.io/badge/Ethics_Flagging_Guidelines-orange)
 
 The following section is a compilation of other documents: one written by Karën Fort and Min-Yen Kan and another written by Malihe Alikhani and Vinodkumar Prabhakaran.
 
@@ -47,13 +47,13 @@ As of Dec 2024, the current chairs are Leon Derczynski, Dr. Kokil Jaidka and Dr.
 
 ## 2. Recommendations for conference chairs
 
-### Make sure ethics chairs have enough time [![](https://img.shields.io/badge/Ethics_Reviewing_Recommendations_for_NLP/CL_Events-red)](https://docs.google.com/document/d/1rBqmZdAbLUXy7TJuACWziyMguUhnASB2KardMdwP98w/edit?tab=t.0) [![](https://img.shields.io/badge/Chairing_Ethics_Committee_--_Lessons_from_LREC--COLING_2024-pink)](https://docs.google.com/document/d/1olM2UJ-E4XTX39SdKrarOODvXoSDId7w1jSsIFcwSqs/edit?tab=t.0#heading=h.wuhplkpfrye2) [![](https://img.shields.io/badge/Ethical_Reviewing_Recommendation_--_Draft-blue)](https://docs.google.com/document/d/1c35sXHOjI8K-SuNfcgdhN5v1M4zTB8f7RQwxzUat4r0/edit?usp=sharing)
+### Make sure ethics chairs have enough time ![](https://img.shields.io/badge/Ethics_Reviewing_Recommendations_for_NLP/CL_Events-red) ![](https://img.shields.io/badge/Chairing_Ethics_Committee_--_Lessons_from_LREC--COLING_2024-pink) ![](https://img.shields.io/badge/Ethical_Reviewing_Recommendation_--_Draft-blue)
 
 The ethics chairs should be recruited **early** in the conference planning process, with **sufficient time** to participate in setting the review schedule to ensure there is time for ethics review and clarity about how papers will be referred and evaluated.
 
 There should be **at least 2-3 weeks in the review timelines** allocated to the ethics review, and there should be a strict cut-off for when the ACs/SACs flag a paper for ethics review.  Ethics chairs should not be getting requests after the Ethics review timeframe.
 
-### Process Flow (ARR Ethics Chairs, including conference ethics chairs) [![](https://img.shields.io/badge/ARR_Ethics_Chairing_Guidelines-gold)](https://docs.google.com/document/d/1MaeMJQkQgSUSMK8uIgS1S_KKzSBYXR8kbqYeNYM8YlQ/edit?tab=t.0#heading=h.sgssn43zt2by)
+### Process Flow (ARR Ethics Chairs, including conference ethics chairs) ![](https://img.shields.io/badge/ARR_Ethics_Chairing_Guidelines-gold)
 
 During ARR review, some submissions are flagged for ethics review. These submissions are considered by the ethics chairs and if necessary, sent to ethics reviewers, who are supervised by the ethics chairs.
 
@@ -109,7 +109,7 @@ Because this will need to be coordinated among all ARR ethics chairs, we usually
     - **[Duplicates]** Every time a reviewer/AE flags a paper we get an email. So if you are adding papers to the sheet from the email notifications, note that some of them may already have been flagged. Currently Column C in the Papers Tracking sheet has a formula to flag duplicates, to make it easier to detect them.
     - **[Removals]** Some reviewers/AEs may realize a paper was accidentally flagged, and update their ethics review flag to “No”. This will remove the paper from the Paper Status console on Open Review. Correspondingly I have added a column D in the Papers Tracking sheet to note if the paper is active on the console. In the beginning you can manually update it if you find the paper is no longer in the console. But we can also semi-automatically refresh this column periodically. 
 
-### Suggestions for Call-for-paper [![](https://img.shields.io/badge/Chairing_Ethics_Committee_--_Lessons_from_LREC--COLING_2024-pink)](https://docs.google.com/document/d/1olM2UJ-E4XTX39SdKrarOODvXoSDId7w1jSsIFcwSqs/edit?tab=t.0#heading=h.wuhplkpfrye2)
+### Suggestions for Call-for-paper ![](https://img.shields.io/badge/Chairing_Ethics_Committee_--_Lessons_from_LREC--COLING_2024-pink)
 
 - The Call for Papers (CFPs) should incorporate ethics guidelines, making it clear that submissions may be subject to rejection due to ethical concerns.
 - This proactive measure may contribute to deterring submissions presenting straightforward ethical issues, such as manual annotations lacking proper compensation disclosure.
@@ -118,7 +118,7 @@ Because this will need to be coordinated among all ARR ethics chairs, we usually
 
 ## 3. Recommendations for ethics committee chairs
 
-### Form a diverse committee [![](https://img.shields.io/badge/Ethical_Reviewing_Recommendation_--_Draft-blue)](https://docs.google.com/document/d/1c35sXHOjI8K-SuNfcgdhN5v1M4zTB8f7RQwxzUat4r0/edit?usp=sharing)
+### Form a diverse committee ![](https://img.shields.io/badge/Ethical_Reviewing_Recommendation_--_Draft-blue)
 
 Form a **large and diverse** ethics committee, including participants working in different countries from all continents and declaring a variety of genders. For an example, see the [NAACL 2021 committee](https://2021.naacl.org/ethics/committee/). We also recommend that ethics reviewers have term limits (where possible) to motivate and ensure that ethics reviewers come from a wide and diverse swath of the memberships and not by a fixed coterie of incumbent reviewers. Less experienced ethics reviewers can be paired with more experienced ones.
 
@@ -130,7 +130,7 @@ As members of such a committee may experience pressure to implement decisions fr
 
 Take into account the fact that some papers might be flagged for ethics and be false positive, i.e. will not in fact need an ethics review.
 
-### Document the process [![](https://img.shields.io/badge/Ethics_Reviewing_Recommendations_for_NLP/CL_Events-red)](https://docs.google.com/document/d/1rBqmZdAbLUXy7TJuACWziyMguUhnASB2KardMdwP98w/edit?tab=t.0)
+### Document the process ![](https://img.shields.io/badge/Ethics_Reviewing_Recommendations_for_NLP/CL_Events-red)
 
 The ACL ethics committee’s website provides a dedicated form for documentation at [LINK](https://ethics.aclweb.org/).
 
@@ -142,12 +142,12 @@ Documentation should especially include the number of papers:
 - accepted conditionally
 - rejected on ethical grounds: both scientific and ethical OR ethical only
 
-### Scope of ethical reviewing [![](https://img.shields.io/badge/Ethics_Reviewing_Recommendations_for_NLP/CL_Events-red)](https://docs.google.com/document/d/1rBqmZdAbLUXy7TJuACWziyMguUhnASB2KardMdwP98w/edit?tab=t.0)
+### Scope of ethical reviewing ![](https://img.shields.io/badge/Ethics_Reviewing_Recommendations_for_NLP/CL_Events-red)
 
 - The purview of Ethics Chairs should be limited to reviewing the ethical issues in the execution of the research presented in the paper. 
 - Perhaps the ethics section in the papers (or the checklist in the submission process) explicitly requires that authors state explicitly that they had legal access to this data.  
 
-## 4. Recommendations for ethics reviewers [![](https://img.shields.io/badge/Ethics_Reviewer_Tutorial-green)](https://aclrollingreview.org/ethicsreviewertutorial)
+## 4. Recommendations for ethics reviewers ![](https://img.shields.io/badge/Ethics_Reviewer_Tutorial-green)
 
 These guidelines are aimed at ethics reviewers, i.e. people assigned to review papers that have **already been flagged by other reviewers**, focusing on ethics issues. These guidelines are not meant to be exhaustive (especially as ethics is a discussion and can not be diminished to a checklist), but to help reviewers to better understand their role and provide them practical examples.
 
@@ -209,7 +209,7 @@ This model achieves only 60% accuracy on this data set, even though the authors 
 	
     -> Depending on the nature of the model, 60% accuracy may very well be state of the art, and the model may have documented utility even at that level of accuracy. If there is an issue of ethical practice here - and contemporary NLP researchers may disagree - the authors should perhaps discuss how they are going to mitigate the weaknesses of the model; a human in the loop is one possibility, but not the only one.
 
-## 5. Recommendations for authors and reviewers [![](https://img.shields.io/badge/Ethical_Reviewing_Recommendation_--_Draft-blue)](https://docs.google.com/document/d/1c35sXHOjI8K-SuNfcgdhN5v1M4zTB8f7RQwxzUat4r0/edit?usp=sharing)
+## 5. Recommendations for authors and reviewers ![](https://img.shields.io/badge/Ethical_Reviewing_Recommendation_--_Draft-blue)
 
 ### Guidelines for Flagging Papers for Ethics Review
 
@@ -262,7 +262,7 @@ Emerging best practices include calculating how much energy a given experiment o
 
 ## Appendix
 
-### Temporary, temporally sensitive bugs [![](https://img.shields.io/badge/Ethics_Reviewing_Recommendations_for_NLP/CL_Events-red)](https://docs.google.com/document/d/1rBqmZdAbLUXy7TJuACWziyMguUhnASB2KardMdwP98w/edit?tab=t.0) [![](https://img.shields.io/badge/Chairing_Ethics_Committee_--_Lessons_from_LREC--COLING_2024-pink)](https://docs.google.com/document/d/1olM2UJ-E4XTX39SdKrarOODvXoSDId7w1jSsIFcwSqs/edit?tab=t.0#heading=h.wuhplkpfrye2)
+### Temporary, temporally sensitive bugs ![](https://img.shields.io/badge/Ethics_Reviewing_Recommendations_for_NLP/CL_Events-red) ![](https://img.shields.io/badge/Chairing_Ethics_Committee_--_Lessons_from_LREC--COLING_2024-pink)
 
 The setup for platforms such as SoftConf or OpenReview should be meticulously prepared and thoroughly tested before implementation. Unfortunately, this was not the case for LREC-COLING, leading to several challenges:
 
@@ -274,7 +274,7 @@ The setup for platforms such as SoftConf or OpenReview should be meticulously pr
 - It would help with ethics review planning to clarify ahead of the conference how involved/available ARR ethics chairs can be for the specific event. Technical processes can also be shared with the conference ethics chairs ahead of time as it is not intuitive to understand what happens through Open Review and what has to be handled separately.
 - 2/ the ability to be notified when ethics reviews are submitted. Currently, there is no other way for chairs to check that than accessing the paper channel on Open Review. 3/ the ability to communicate with ethics reviewers through Open Review, including some way for reviewers to differentiate notifications pertaining to scientific vs. ethics reviewing. 
 
-### Other suggestions to facilitate ethics chairs’ work [![](https://img.shields.io/badge/Chairing_Ethics_Committee_--_Lessons_from_LREC--COLING_2024-pink)](https://docs.google.com/document/d/1olM2UJ-E4XTX39SdKrarOODvXoSDId7w1jSsIFcwSqs/edit?tab=t.0#heading=h.wuhplkpfrye2)
+### Other suggestions to facilitate ethics chairs’ work ![](https://img.shields.io/badge/Chairing_Ethics_Committee_--_Lessons_from_LREC--COLING_2024-pink)
 
 - Clarify the **extent** of the ethics committee action: does it include the workshops? The demo or industry papers? The conditional-accept papers shepherding?
 - We recommend that a checkbox on the submission form be provided to allow authors to aver that they have legally binding permission to publish their data; and to indemnify the ACL and committees for any legal repercussions.
