@@ -138,7 +138,7 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
 
 copyright: |
-  &copy; 2025–2023 <a href="https://github.com/acl-org/ethics-website"  target="_blank" rel="noopener">ACL Ethics Team</a>
+  &copy; 2025–2023 <a href="https://github.com/acl-org/ethics-website"  target="_blank" rel="noopener">ACL Ethics Committee</a>
   
 # Additional configuration
 extra:
