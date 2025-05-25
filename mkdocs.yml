@@ -138,16 +138,26 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
 
 copyright: |
-  &copy; 2025–2023 <a href="https://github.com/acl-org/ethics-website"  target="_blank" rel="noopener">ACL Ethics Team</a>.  :simple-github: <i class="fab fa-github"></i> Repo: <a href="https://github.com/acl-org/ethics-website"  target="_blank" rel="noopener">acl-org/ethics-website</a>.
+  &copy; 2025–2023 <a href="https://github.com/acl-org/ethics-website"  target="_blank" rel="noopener">ACL Ethics Team</a>
   
 # Additional configuration
 extra:
-#  status:
-#    new: Recently added
-#    deprecated: Deprecated
-#  analytics:
-#    provider: google
-#    property: !ENV GOOGLE_ANALYTICS_KEY
+ # status:
+ #   new: Recently added
+ #   deprecated: Deprecated
+ # analytics:
+ #   provider: google
+ #   property: !ENV GOOGLE_ANALYTICS_KEY
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/acl-org/ethics-website
+#    - icon: fontawesome/brands/docker
+#      link: https://hub.docker.com/r/squidfunk/mkdocs-material/
+#    - icon: fontawesome/brands/python
+#      link: https://pypi.org/project/mkdocs-material/
+#    - icon: fontawesome/brands/bluesky
+#      link: https://bsky.app/profile/squidfunk.bsky.social
+#    - icon: fontawesome/brands/mastodon
+#      link: https://fosstodon.org/@squidfunk
+#    - icon: fontawesome/brands/x-twitter
+#      link: https://x.com/squidfunk
