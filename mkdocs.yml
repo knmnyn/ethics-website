@@ -67,11 +67,11 @@ theme:
         name: Switch to light mode    
       primary: teal
       accent: lime
-
-copyright: |
-  &copy; 2025–2023 <a href="https://github.com/acl-org/ethics-website"  target="_blank" rel="noopener">ACL Ethics Team</a>.  :simple-github: <i class="fab fa-github"></i> Repo: <a href="https://github.com/acl-org/ethics-website"  target="_blank" rel="noopener">acl-org/ethics-website</a>.
-
 markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+copyright: |
+  &copy; 2025–2023 <a href="https://github.com/acl-org/ethics-website"  target="_blank" rel="noopener">ACL Ethics Team</a>.  :simple-github: <i class="fab fa-github"></i> Repo: <a href="https://github.com/acl-org/ethics-website"  target="_blank" rel="noopener">acl-org/ethics-website</a>.
+  
