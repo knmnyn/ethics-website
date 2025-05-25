@@ -26,7 +26,8 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs-material
+      - name: Install dependencies
+        run: pip install -r requirements.txt
       - name: Create CNAME file
         run: |
           echo 'ethics.aclweb.org' > docs/CNAME
