@@ -40,12 +40,12 @@ theme:
   name: material
   features:
     - navigation.tabs
-    - navigation.tabs.sticky
+    # - navigation.tabs.sticky
     - navigation.indexes
+    - navigation.top
+    - navigation.prune
     # - navigation.sections
     # - toc.integrate
-    - navigation.top
-    # - navigation.prune
     - search.suggest
     - search.highlight
     - content.tabs.link
