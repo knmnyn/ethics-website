@@ -1,8 +1,3 @@
----
-# hide:
-#  - navigation
----
-
 # Welcome to the ACL Ethics Website
 
 **Why are you here? What are you looking for?** Ethics is a broad and interdisciplinary concern of our field. 
