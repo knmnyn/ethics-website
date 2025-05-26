@@ -1,6 +1,6 @@
 ---
-hide:
-  - navigation
+# hide:
+#  - navigation
 ---
 
 # Welcome to the ACL Ethics Website
