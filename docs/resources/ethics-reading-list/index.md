@@ -79,7 +79,7 @@ We have tagged papers with several topic tags and bibliographic type.  You can c
 ### 2025
 [[Contents](#contents)]
 
-* Luccioni, A. S., Strubell, E., & Crawford, K. (2025). From Efficiency Gains to Rebound Effects: The Problem of Jevons' Paradox in AI's Polarized Environmental Debate. [[paper](https://arxiv.org/pdf/2501.16548)] [![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)](t-environmental-impact.md)
+*  Luccioni, A. S., Strubell, E., & Crawford, K. (2025). From Efficiency Gains to Rebound Effects: The Problem of Jevons' Paradox in AI's Polarized Environmental Debate. [[paper](https://arxiv.org/pdf/2501.16548)] [![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)](t-environmental-impact.md)
 [![preprint](https://img.shields.io/badge/type-preprint-lightgrey)](type-preprint.md)
 
 * Mitchell M, Attanasio G, Baldini I, Clinciu M, Clive J, Delobelle P, Dey M, Hamilton S, Dill T, Doughman J, Dutt R, Ghosh A, Zosa Forde J, Holtermann C, Kaffee LA, Laud T, Lauscher A, Lopez-Davila RL, Masoud M, Nangia N, Ovalle A, Pistilli G, Radev D, Savoldi B, Raheja V, Qin J, Ploeger E, Subramonian A, Dhole K, Sun K, Djanibekov A, Mansurov J, Yin K, Villa Cueva E, Mukherjee S, Huang J, Shen X, Gala J, Al-Ali H, Djanibekov T, Mukhituly N, Nie S, Sharma S, Stanczak K, Szczechla E, Timponi Torrent T, Tunuguntla D, Viridiano M, Van Der Wal O, Yakefu A, Névéol A, Zhang M, Zink S, Talat Z. SHADES: Towards a Multilingual Assessment of Stereotypes in Large Language Models. Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers), 2025:11995–12041.  [[paper](https://aclanthology.org/2025.naacl-long.600.pdf)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
@@ -92,8 +92,10 @@ We have tagged papers with several topic tags and bibliographic type.  You can c
 
 [[Contents](#contents)]
 
-* Kantharuban, A., Milbauer, J., Strubell, E., & Neubig, G. (2024). Stereotype or personalization? user identity biases chatbot recommendations [[paper](https://arxiv.org/pdf/2410.05613)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![preprint](https://img.shields.io/badge/type-preprint-lightgrey)](type-preprint.md)
+* Karamolegkou, A., Hansen, S. S., Christopoulou, A., Stamatiou, F., Lauscher, A., & Søgaard, A. (2024). Ethical Concern Identification in NLP: A Corpus of ACL Anthology Ethics Statements. [[paper](https://arxiv.org/pdf/2411.07845)] [![General Resources](https://img.shields.io/badge/t-general%20resources-red)](t-general-resources.md) [![preprint](https://img.shields.io/badge/type-preprint-lightgrey)](type-preprint.md)
+  
 
+* Kantharuban, A., Milbauer, J., Strubell, E., & Neubig, G. (2024). Stereotype or personalization? user identity biases chatbot recommendations [[paper](https://arxiv.org/pdf/2410.05613)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![preprint](https://img.shields.io/badge/type-preprint-lightgrey)](type-preprint.md)
 
 
 * Ducel F, Névéol A, Fort K. “You’ll be a nurse, my son!” Automatically assessing gender biases in autoregressive language models in French and Italian Language Resources and Evaluation. Springer, Berlin Heidelberg, Germany. 2024:1-29 [[paper](https://link.springer.com/article/10.1007/s10579-024-09780-6)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![Evaluation](https://img.shields.io/badge/t-evaluation-orange)](t-evaluation.md)
@@ -139,6 +141,8 @@ We have tagged papers with several topic tags and bibliographic type.  You can c
 
 ### 2022
 [[Contents](#contents)]
+
+* Benotti L, Blackburn P. 2022. Ethics consideration sections in natural language processing papers. In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing, pages 4509–4516, Abu Dhabi, United Arab Emirates. Association for Computational Linguistics. [[paper](https://aclanthology.org/2022.emnlp-main.299.pdf)] [![General Resources](https://img.shields.io/badge/t-general%20resources-red)](t-general-resources.md) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 * Alorwu, A., Savage, S., van Berkel, N., Ustalov, D., Drutsa, A., Oppenlaender, J., Bates, O., Hettiachchi, D., Gadiraju, U., Goncalves, J., and Hosio, S. (2022). REGROW: Reimagining Global Crowdsourcing for Better Human-AI Collaboration. In Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems (CHI EA '22). Association for Computing Machinery, New York, NY, USA, Article 88, 1–7 [[paper](https://dl.acm.org/doi/10.1145/3491101.3503725)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
