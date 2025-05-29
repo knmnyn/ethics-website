@@ -3,6 +3,7 @@ hide:
   - navigation
   - toc
   - title
+title: ""
 ---
 If you are involved in Natural Language Processing, whether as a researcher, educator, or practitioner, understanding and addressing ethical implications is crucial. This website serves as a comprehensive resource hub tailored to your specific role:
 
