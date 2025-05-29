@@ -6,7 +6,7 @@ hide:
 
 As Natural Language Processing continues to transform both academic interests, practical industries and reshape how we interact with technology, *ethical challenges* associated with these powerful tools have become more pressing than ever. As an instructor, you have the unique opportunity — and responsibility — to help tomorrow’s NLP practitioners navigate the ethical dimensions of their work. Our website is designed specifically to support educators.
 
-## 1. Integrate Ethics into Your Lecturing curriculum
+## 1. Integrate Ethics into Your Lecturing Curriculum
 
 Ethics is a core component of responsible NLP education. Integrating ethical discussions and case studies into your syllabus helps students identify, analyze, and address complex issues they may encounter in academia or industry.  This is an absolutely essential topic that creates the necessary awareness of ethical issues that graduates will need in their future job roles. 
 
