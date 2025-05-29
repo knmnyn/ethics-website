@@ -19,6 +19,6 @@ Ethics reviewing is arguably one of the most important contributions we as a com
 
 **How do I learn about Ethical Concerns?** While checklists are a good means to start thinking about ethics from common perspectives, it is important to view such checklists as an incomplete means to holistically think about the impact of our work. There will be new areas of concern that become necessary to consider as our scholarship continues to advance. We’ll walk you through some case studies to help you think about works from multiple stakeholders’ perspectives and timeframes. You can find such case studies in the [Tutorial resources](/tutorials/index.md).
 
-**Are there good resources to teach Ethics?** You are a researcher, lecturer, reader or professor in CL/NLP and want to raise awareness on ethical issues amongst your students – either BSc, MSc or PhD level. Then the [Resource section](resources/index.md) would be right for you. 
+**Are there good resources to teach Ethics?** You are a researcher, lecturer, reader or professor in CL/NLP and want to raise awareness on ethical issues amongst your students – either BSc, MSc or PhD level. Our [Instructors page](roles/instructors.md) organizes the resources relevant to teaching ethics to students.
 
 **I am interested in Ethics Research, where should I start?** We compiled a list of relevant NLP papers that address a variety of topics: biases,  crowdsourcing issues, dual use, environmental impact,... You can find this Reading list, and contribute to it, in the [Resource section](resources/ethics-reading-list/).

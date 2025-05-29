@@ -3,6 +3,6 @@ hide:
   - navigation
   - toc
 ---
-Organisers
+Organizers
 
-Prospective Organisers. 
+Prospective Organizers 
