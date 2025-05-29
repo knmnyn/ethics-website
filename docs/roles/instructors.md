@@ -13,7 +13,7 @@ Ethics is a core component of responsible NLP education. Integrating ethical dis
 **Relevant Resources:**
 
 * *Sample Syllabi*: Find ready-made course outlines that weave ethics into NLP modules.
-* *Lecture Slides*: Download editable slide decks on topics like fairness, bias, and privacy.
+* *Lecture Presentation Slides*: Download editable slide decks on topics like fairness, bias, and privacy.
 * *Assignment Templates*: Use our assignments and reflection prompts to challenge students to think critically about ethical issues.
 
 ## 2. Stay Informed About Emerging Ethical Challenges
@@ -23,11 +23,11 @@ As the landscape of NLP ethics evolves rapidly, new risks and debates emerge. St
 **Relevant Resources:**
 
 * *Trends & News Feed*: Access curated news articles and commentary on the latest ethical controversies in NLP.
-* *Research Paper Summaries*: Read digestible overviews of recent landmark papers on AI and NLP ethics.
+* *Ethical Reading List*: Our website also maintains a crowdsourced bibliography of published academic work from major NLP conferences.  It features faceted classification, so you can filter the primary scholarly materials for topic, publication type and year.  
 
 ## 3. Educate your students on concerns about Bias, Fairness, and Inclusion
 
-NLP models can perpetuate and amplify biases related to inequity with respect to dimensions such as gender, race, or culture. Educating students on these topics is essential to creating fairer technologies.
+NLP models can perpetuate and amplify biases related to inequity with respect to dimensions such as gender, race, or culture, when trained improperly. Educating students on these topics is essential to ensure that future production technologies will address these issues.
 
 **Relevant Resources:**
 
@@ -62,7 +62,7 @@ Capstone projects and student research require ethical oversight and critical th
 * *Project Planning Worksheets*: Checklists to help students identify potential ethical pitfalls early.
 * *Ethics Review Templates*: Forms and guidelines for student-led ethical review processes.
 
-## Access Community and Expert Guidance
+## 7. Access Community and Expert Guidance
 
 Connecting with peers and experts fosters knowledge-sharing and continuous improvement in how we teach NLP ethics.
 
@@ -71,7 +71,7 @@ Connecting with peers and experts fosters knowledge-sharing and continuous impro
 * *Online Forums*: Participate in educator discussion boards to share ideas and ask questions.
 * *Expert Webinars*: Attend live or recorded talks from leading voices in NLP and AI ethics.
 
-## Discover Teaching Aids and Multimedia Content
+## 8. Discover Teaching Aids and Multimedia Content
 
 Engaging multimedia and interactive tools enhance student learning and make complex ethical concepts more accessible.
 
@@ -80,6 +80,3 @@ Engaging multimedia and interactive tools enhance student learning and make comp
 * *Video Explainers*: Short, expert-led videos introducing key ethical topics.
 * *Infographics & Visual Guides*: Downloadable resources to use in lectures or assignments.
 
-Start Exploring Today!
-
-Visit our Ethics in NLP Resources to access these materials and more. Whether you’re looking to update a single lesson or overhaul your curriculum, our hub is here to support you in shaping responsible, ethical NLP practitioners for the future.
