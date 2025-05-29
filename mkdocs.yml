@@ -2,11 +2,11 @@ site_name: ACL Ethics
 nav:
   - Home: index.md
   - Roles:
-        - index: roles/index.md
-        - authors: roles/authors.md
-        - instructors: roles/instructors.md
-        - organisers: roles/organisers.md
-        - researchers: roles/researchers.md
+        - roles/index.md
+        - roles/authors.md
+        - roles/instructors.md
+        - roles/organisers.md
+        - roles/researchers.md
         - reviewers: roles/reviewers.md
   - Tutorials:
         - tutorials/index.md
