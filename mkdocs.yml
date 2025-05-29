@@ -4,7 +4,7 @@ nav:
   - Roles:
         - Roles: roles/index.md
         - roles/authors.md
-        - roles/instructors.md
+        - Instructors: roles/instructors.md
         - roles/organizers.md
         - roles/researchers.md
         - reviewers: roles/reviewers.md
