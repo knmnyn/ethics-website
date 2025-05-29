@@ -2,9 +2,10 @@
 hide:
   - navigation
   - toc
+  - title
 ---
 
-As Natural Language Processing continues to transform both academic interests, practical industries and reshape how we interact with technology, *ethical challenges* associated with these powerful tools have become more pressing than ever. As an instructor, you have the unique opportunity — and responsibility — to help tomorrow’s NLP practitioners navigate the ethical dimensions of their work. Our website is designed specifically to support educators.
+Natural Language Processing continues to transform both academic interests, practical industries and reshape how we interact with technology, *ethical challenges* associated with these powerful tools have become more pressing than ever. As **instructors**, we have the unique opportunity — and responsibility — to help tomorrow’s NLP practitioners navigate the ethical dimensions of their work. Our website is designed specifically to support educators.
 
 ## 1. Integrate Ethics into Your Lecturing Curriculum
 
