@@ -79,8 +79,14 @@ We have tagged papers with several topic tags and bibliographic type.  You can c
 ### 2025
 [[Contents](#contents)]
 
-*  Luccioni, A. S., Strubell, E., & Crawford, K. (2025). From Efficiency Gains to Rebound Effects: The Problem of Jevons' Paradox in AI's Polarized Environmental Debate. [[paper](https://arxiv.org/pdf/2501.16548)] [![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)](t-environmental-impact.md)
-[![preprint](https://img.shields.io/badge/type-preprint-lightgrey)](type-preprint.md)
+* Varoquaux G, Luccioni S, Whittaker M. 2025. Hype, Sustainability, and the Price of the Bigger-is-Better Paradigm in AI. In Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT '25):61–75  [[paper](https://doi.org/10.1145/3715275.3732006)] [![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)](t-environmental-impact.md)
+[![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+
+
+*  Luccioni S, Strubell E, Crawford K. 2025. From Efficiency Gains to Rebound Effects: The Problem of Jevons' Paradox in AI's Polarized Environmental Debate. Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT '25):76–88. [[paper](https://doi.org/10.1145/3715275.3732007)] [![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)](t-environmental-impact.md)
+[![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+
+* Morand C, Névéol A, Ligozat AL. 2025. Does Efficiency Lead to Green Machine Learning Model Training? Analyzing Historical Trends in Impacts from Hardware, Algorithmic and Carbon Optimizations. [[paper](https://hal.science/hal-04839926v4/file/Does_efficiency_lead_to_green_ML.pdf)]  [![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)](t-environmental-impact.md) [![preprint](https://img.shields.io/badge/type-preprint-lightgrey)](type-preprint.md)
 
 * Mitchell M, Attanasio G, Baldini I, Clinciu M, Clive J, Delobelle P, Dey M, Hamilton S, Dill T, Doughman J, Dutt R, Ghosh A, Zosa Forde J, Holtermann C, Kaffee LA, Laud T, Lauscher A, Lopez-Davila RL, Masoud M, Nangia N, Ovalle A, Pistilli G, Radev D, Savoldi B, Raheja V, Qin J, Ploeger E, Subramonian A, Dhole K, Sun K, Djanibekov A, Mansurov J, Yin K, Villa Cueva E, Mukherjee S, Huang J, Shen X, Gala J, Al-Ali H, Djanibekov T, Mukhituly N, Nie S, Sharma S, Stanczak K, Szczechla E, Timponi Torrent T, Tunuguntla D, Viridiano M, Van Der Wal O, Yakefu A, Névéol A, Zhang M, Zink S, Talat Z. SHADES: Towards a Multilingual Assessment of Stereotypes in Large Language Models. Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers), 2025:11995–12041.  [[paper](https://aclanthology.org/2025.naacl-long.600.pdf)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
 
