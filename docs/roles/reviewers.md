@@ -3,7 +3,19 @@ hide:
   - navigation
   - toc
 ---
-As a reviewer or prospective reviewer, perhaps you are unsure what constitutes an appropriate use for flagging a paper for further ethics review. Perhaps you also want to learn how to contribute to the process of assessing papers for ethical issues. We’ll show you how to best use the author-provided responsible research checklist as a basis for starting your assessment, and also how to test your own knowledge of ethics through case studies and simulated reviewing.
+If you're a reviewer or considering becoming one, you may be unsure about when it’s appropriate to flag a paper for further ethics review. You might also be interested in learning how to assess papers for ethical concerns more effectively.
 
-Ethics reviewing is arguably one of the most important contributions we as a community can do for the long-term health of our field. Right now, we are sorely lacking in enough manpower to do all the reviewing we would ideally want to do. By completing these self-guided exercises, we hope that you will volunteer to the pool of qualified ethical reviewers to help make scalable ethics reviewing a reality. You can find case studies in the [Tutorial](https://ethics.aclweb.org/tutorials/) resources, and a detailed recommendations document (Ethical Review Recommendations Section) in the [Resource](https://ethics.aclweb.org/resources/) section.
+This tutorial will guide you in using the author-provided *Responsible Research Checklist* as a starting point for your ethical assessment. You’ll also have the opportunity to test and deepen your understanding of research ethics through case studies and simulated reviewing exercises.
+
+### Why Ethics Reviewing Matters
+
+Ethics reviewing is one of the most important contributions we, as a community, can make to ensure the long-term integrity and health of our field. However, there is currently a significant shortage of qualified reviewers to meet the demand.
+
+By engaging in these self-guided exercises, we hope you will consider joining the pool of qualified ethics reviewers and help move us toward a more scalable, sustainable reviewing process.
+
+### Get Started
+
+- 📚 **Case Studies**: Explore examples in the [Tutorial](https://ethics.aclweb.org/tutorials/) section  
+- 🧾 **Review Guidelines**: Consult the *Ethical Review Recommendations* in the [Resource](https://ethics.aclweb.org/resources/) section
+
 
