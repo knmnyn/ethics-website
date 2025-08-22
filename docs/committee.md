@@ -160,7 +160,7 @@ table th {
         </td>
     </tr>
       <tr>
-        <td><img src="https://imgur.com/x4MJoMj.jpeg" alt="Punya Syon Pandey" class="portrait"></td>
+        <td><img src="https://drive.google.com/file/d/1gJZBAwZBykUzrhF4iYwoqZ_RkIyneAd2/view?usp=sharing" alt="Punya Syon Pandey" class="portrait"></td>
         <td>
             <strong>Punya Syon Pandey</strong> (<a href="mailto:punya.pandey@mail.utoronto.ca">punya.pandey@mail.utoronto.ca</a>, he/him) is a research assistant at the University of Toronto, in Canada. His work focuses on adversarial robustness in LLMs and evaluating multi-agent interactions.
        </td>
