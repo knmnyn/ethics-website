@@ -158,6 +158,10 @@ table th {
         <td>
             <strong>Minzhi Li</strong> (<a href="mailto:li.minzhi@u.nus.edu">li.minzhi@u.nus.edu</a>, she/her) is a PhD candidate at the National University of Singapore. Her main research interest is socially-aware NLP.
         </td>
+        <td><img src="https://imgur.com/a/x4MJoMj.jpeg" alt="Punya Syon Pandey" class="portrait"></td>
+        <td>
+            <strong>Punya Syon Pandey</strong> (<a href="mailto:punya.pandey@mail.utoronto.ca">punya.pandey@mail.utoronto.ca</a>, he/him) is a research assistant at the University of Toronto, in Canada. His work focuses on adversarial robustness in LLMs and evaluating multi-agent interactions.
+       </td>
     </tr>
 </table>
 
