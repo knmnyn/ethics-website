@@ -162,7 +162,7 @@ table th {
       <tr>
         <td><img src="https://i.imgur.com/4Ov1ijA.jpeg" alt="Punya Syon Pandey" class="portrait"></td>
         <td>
-            <strong>Punya Syon Pandey</strong> (<a href="mailto:punya.pandey@mail.utoronto.ca">punya.pandey@mail.utoronto.ca</a>, he/him) is a research assistant at the University of Toronto, in Canada. His work focuses on adversarial robustness in LLMs and evaluating multi-agent interactions.
+            <a href="https://psyonp.github.io/"><strong>Punya Syon Pandey</strong></a> (<a href="mailto:punya.pandey@mail.utoronto.ca">punya.pandey@mail.utoronto.ca</a>, he/him) is a research assistant at the University of Toronto, in Canada. His work focuses on adversarial robustness in LLMs and evaluating multi-agent interactions.
        </td>
     </tr>
 </table>
