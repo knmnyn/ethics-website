@@ -109,7 +109,7 @@ table th {
     <tr>
         <td><img src="https://i.imgur.com/x3x5rbO.jpeg" alt="Zhijing Jin" class="portrait"></td>
         <td>
-            <a href="https://zhijing-jin.com/"><strong>Zhijing Jin</strong></a> (<a href="mailto:zjin@cs.toronto.edu">zjin@cs.toronto.edu</a>, she/her) is an incoming Assistant Professor at the University of Toronto, as well as a CIFAR AI Chair, ELLIS advisor, and faculty member at the Vector Institute. She will also hold a co-affiliation at Max Planck Institute for Intelligent Systems as a Research Scientist. Her research focuses on causal inference for NLP, with a focus on social good applications. Together with Rada Mihalcea and many others, she co-organizes many <a href="https://sites.google.com/view/nlp4positiveimpact">NLP for Positive Impact Workshops</a> at *CL conferences, as well as the <a href="https://mentorship.aclweb.org/"> ACL Year-Round Mentorship</a>.
+            <a href="https://zhijing-jin.com/"><strong>Zhijing Jin</strong></a> (<a href="mailto:zjin@cs.toronto.edu">zjin@cs.toronto.edu</a>, she/her) is an incoming Assistant Professor at the University of Toronto, as well as a CIFAR AI Chair, ELLIS advisor, faculty member at the Vector Institute, and faculty affiliate at the Schwartz Reisman Institute. She is currently a postdoc at Max Planck Institute for Intelligent Systems in Germany. Her research focuses on causal inference for NLP, with a focus on Responsible AI applications. Together with Rada Mihalcea and many others, she co-organizes many <a href="https://sites.google.com/view/nlp4positiveimpact">NLP for Positive Impact Workshops</a> at *CL conferences, as well as the <a href="https://mentorship.aclweb.org/"> ACL Year-Round Mentorship</a>.
         </td>
     </tr>
     <tr>
