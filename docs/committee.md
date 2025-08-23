@@ -89,18 +89,6 @@ table th {
         </td>
     </tr>
     <tr>
-        <td><img src="https://i.imgur.com/GYaaEXF.jpeg" alt="Luciana Benotti" class="portrait"></td>
-        <td>
-            <strong>Luciana Benotti</strong> (<a href="mailto:luciana.benotti@unc.edu.ar">luciana.benotti@unc.edu.ar</a>, she/her) is an Associate Professor at the Universidad Nacional de Córdoba, in Argentina. Her research interests cover many aspects of situated and grounded language, including the study of misunderstandings, bias, stereotypes, and clarification requests. She is the elected chair of the NAACL executive board and is also serving as a member at large of the ACL Ethics committee.
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/TZNHaMt.png" alt="Karën Fort" class="portrait"></td>
-        <td>
-            <strong>Karën Fort</strong> (<a href="mailto:karen.fort@loria.fr">karen.fort@loria.fr</a>, she/her) is a Professor at the Université de Lorraine, in France and does her research at LORIA in Nancy, France. She has been working on ethics in NLP since 2014. She was co-chair of the first two ethics committees in the field (EMNLP 2020 and NAACL 2021) and is co-chair of the ACL ethics committee. She has been a member of the Sorbonne IRB (2019-2022) and teaches ethics at undergraduate and graduate levels in Paris, Nancy, and the University of Malta.
-        </td>
-    </tr>
-    <tr>
         <td><img src="https://i.imgur.com/AO2xNYk.jpeg" alt="Alvin Grissom II" class="portrait"></td>
         <td>
             <strong>Alvin Grissom II</strong> (<a href="mailto:agrissom@haverford.edu">agrissom@haverford.edu</a>, he/him) is an Associate Professor of Computer Science at Haverford College.
@@ -169,6 +157,8 @@ table th {
 
 # Past Members of the ACL Ethics Committee
 
+- Luciana Benotti: Served as co-chair during 2024-2025
+- Karën Fort: Served as co-chair during 2024-2025
 - Mark Drezde
 - Pascale Fung
 - Dirk Hovy
