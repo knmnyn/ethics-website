@@ -163,8 +163,8 @@ table th {
 
 # Past Members of the ACL Ethics Committee
 
-- Karën Fort - Served as Co-Chair (2024-2025) 
 - Mark Drezde
+- Karën Fort - Served as Co-Chair (2024-2025) 
 - Pascale Fung
 - Dirk Hovy
 - Jin-Dong Kim
