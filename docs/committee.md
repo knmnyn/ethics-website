@@ -88,20 +88,6 @@ table th {
             <strong>David Ifeoluwa Adelani</strong> (<a href="mailto:david.adelani@mcgill.ca">david.adelani@mcgill.ca</a>, he/him) is an Assistant Professor at McGill School of Computer Science, Canada and a Core Academic Member at MILA, and a Canada CIFAR AI Chair (in 2024). Previously, he was a DeepMind Academic Fellow at UCL, and a obtained his PhD in Computer Science at Saarland University. He specializes in machine learning, multilingual NLP, and NLP for low-resource languages, focusing on machine translation, multilingual representation learning, and cross-lingual transfer learning. His expertise extends to speech processing, including text-to-speech, speech recognition, speech representation learning, and speech translation.
         </td>
     </tr>
-<!--
-    <tr>
-        <td><img src="https://i.imgur.com/GYaaEXF.jpeg" alt="Luciana Benotti" class="portrait"></td>
-        <td>
-            <strong>Luciana Benotti</strong> (<a href="mailto:luciana.benotti@unc.edu.ar">luciana.benotti@unc.edu.ar</a>, she/her) is an Associate Professor at the Universidad Nacional de Córdoba, in Argentina. Her research interests cover many aspects of situated and grounded language, including the study of misunderstandings, bias, stereotypes, and clarification requests. She is the elected chair of the NAACL executive board and is also serving as a member at large of the ACL Ethics committee.
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/TZNHaMt.png" alt="Karën Fort" class="portrait"></td>
-        <td>
-            <strong>Karën Fort</strong> (<a href="mailto:karen.fort@loria.fr">karen.fort@loria.fr</a>, she/her) is a Professor at the Université de Lorraine, in France and does her research at LORIA in Nancy, France. She has been working on ethics in NLP since 2014. She was co-chair of the first two ethics committees in the field (EMNLP 2020 and NAACL 2021) and is co-chair of the ACL ethics committee. She has been a member of the Sorbonne IRB (2019-2022) and teaches ethics at undergraduate and graduate levels in Paris, Nancy, and the University of Malta.
-        </td>
-    </tr>
--->
    <tr>
       <td><img src="https://i.imgur.com/GYaaEXF.jpeg" alt="Luciana Benotti" class="portrait"></td>
       <td>
@@ -160,19 +146,6 @@ table th {
         <td>
             <strong>Guido Ivetta</strong> (<a href="mailto:guidoivetta@mi.unc.edu.ar">guidoivetta@mi.unc.edu.ar</a>, he/him) is a PhD candidate at the Universidad Nacional de Córdoba, in Argentina. His work focuses on language model calibration and biases.
         </td>
-    </tr>
-<!--
-    <tr>
-        <td><img src="https://i.imgur.com/WXwRbvG.jpeg" alt="Minzhi Li" class="portrait"></td>
-        <td>
-            <strong>Minzhi Li</strong> (<a href="mailto:li.minzhi@u.nus.edu">li.minzhi@u.nus.edu</a>, she/her) is a PhD candidate at the National University of Singapore. Her main research interest is socially-aware NLP.
-        </td>
-    </tr>
-      <tr>
-        <td><img src="https://i.imgur.com/4Ov1ijA.jpeg" alt="Punya Syon Pandey" class="portrait"></td>
-        <td>
-            <a href="https://psyonp.github.io/"><strong>Punya Syon Pandey</strong></a> (<a href="mailto:punya.pandey@mail.utoronto.ca">punya.pandey@mail.utoronto.ca</a>, he/him) is a research assistant at the University of Toronto, in Canada. His work focuses on adversarial robustness in LLMs and evaluating multi-agent interactions.
-       </td>
     </tr>
 </table>
 
