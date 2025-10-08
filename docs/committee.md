@@ -88,12 +88,6 @@ table th {
             <strong>David Ifeoluwa Adelani</strong> (<a href="mailto:david.adelani@mcgill.ca">david.adelani@mcgill.ca</a>, he/him) is an Assistant Professor at McGill School of Computer Science, Canada and a Core Academic Member at MILA, and a Canada CIFAR AI Chair (in 2024). Previously, he was a DeepMind Academic Fellow at UCL, and a obtained his PhD in Computer Science at Saarland University. He specializes in machine learning, multilingual NLP, and NLP for low-resource languages, focusing on machine translation, multilingual representation learning, and cross-lingual transfer learning. His expertise extends to speech processing, including text-to-speech, speech recognition, speech representation learning, and speech translation.
         </td>
     </tr>
-   <tr>
-      <td><img src="https://i.imgur.com/GYaaEXF.jpeg" alt="Luciana Benotti" class="portrait"></td>
-      <td>
-            <strong>Luciana Benotti</strong> (<a href="mailto:luciana.benotti@unc.edu.ar">luciana.benotti@unc.edu.ar</a>, she/her) is an Associate Professor at the Universidad Nacional de Córdoba, in Argentina. Her research interests cover many aspects of situated and grounded language, including the study of misunderstandings, bias, stereotypes, and clarification requests. She is the elected chair of the NAACL executive board, co-chair of the ACL ethics committee from 2024-2025, and is also serving as a member at large of the ACL Ethics committee.
-      </td>
- </tr>
     <tr>
         <td><img src="https://i.imgur.com/AO2xNYk.jpeg" alt="Alvin Grissom II" class="portrait"></td>
         <td>
@@ -122,6 +116,12 @@ table th {
         <td><img src="https://i.imgur.com/94c8Ped.jpeg" alt="Margot Mieskes" class="portrait"></td>
         <td>
             <strong>Margot Mieskes</strong> (<a href="mailto:margot.mieskes@h-da.de">margot.mieskes@h-da.de</a>, she/her) is a Professor for Information Science at the University of Applied Sciences, Darmstadt, Germany. She works in Computational Linguistics (CL) and Natural Language Processing (NLP), focusing on automatic summarization, evaluation methods, data quality, emotion detection, ethics, experiment reproducibility, and biases in large language models.
+        </td>
+    </tr>
+    <tr>
+        <td><img src="images/AN_photo2021-square.png" alt="Aurélie Névéol" class="portrait"></td>
+        <td>
+            <strong>Aurélie Névéol</strong> is a CNRS Researcher at LISN (formerly, LIMSI) working on clinical and biomedical Natural Language Processing. Her research interests include information extraction and knowledge representation in specialized domains. Her research addresses both methods and applications of biomedical text analysis, ranging from explorations of representation models and their cross-language or cross-domain adaptability, to the integration of representation frameworks to extract new medical knowledge from clinical text. She also has a strong interest in ethics issues related to the development, evaluation and deployment of Natural Language Processing systems.
         </td>
     </tr>
     <tr>
