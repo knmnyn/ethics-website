@@ -88,20 +88,26 @@ table th {
             <strong>David Ifeoluwa Adelani</strong> (<a href="mailto:david.adelani@mcgill.ca">david.adelani@mcgill.ca</a>, he/him) is an Assistant Professor at McGill School of Computer Science, Canada and a Core Academic Member at MILA, and a Canada CIFAR AI Chair (in 2024). Previously, he was a DeepMind Academic Fellow at UCL, and a obtained his PhD in Computer Science at Saarland University. He specializes in machine learning, multilingual NLP, and NLP for low-resource languages, focusing on machine translation, multilingual representation learning, and cross-lingual transfer learning. His expertise extends to speech processing, including text-to-speech, speech recognition, speech representation learning, and speech translation.
         </td>
     </tr>
-<!-->
+<!--
     <tr>
         <td><img src="https://i.imgur.com/GYaaEXF.jpeg" alt="Luciana Benotti" class="portrait"></td>
         <td>
             <strong>Luciana Benotti</strong> (<a href="mailto:luciana.benotti@unc.edu.ar">luciana.benotti@unc.edu.ar</a>, she/her) is an Associate Professor at the Universidad Nacional de Córdoba, in Argentina. Her research interests cover many aspects of situated and grounded language, including the study of misunderstandings, bias, stereotypes, and clarification requests. She is the elected chair of the NAACL executive board and is also serving as a member at large of the ACL Ethics committee.
         </td>
     </tr>
--->
     <tr>
         <td><img src="https://i.imgur.com/TZNHaMt.png" alt="Karën Fort" class="portrait"></td>
         <td>
             <strong>Karën Fort</strong> (<a href="mailto:karen.fort@loria.fr">karen.fort@loria.fr</a>, she/her) is a Professor at the Université de Lorraine, in France and does her research at LORIA in Nancy, France. She has been working on ethics in NLP since 2014. She was co-chair of the first two ethics committees in the field (EMNLP 2020 and NAACL 2021) and is co-chair of the ACL ethics committee. She has been a member of the Sorbonne IRB (2019-2022) and teaches ethics at undergraduate and graduate levels in Paris, Nancy, and the University of Malta.
         </td>
     </tr>
+-->
+   <tr>
+      <td><img src="https://i.imgur.com/GYaaEXF.jpeg" alt="Luciana Benotti" class="portrait"></td>
+      <td>
+            <strong>Luciana Benotti</strong> (<a href="mailto:luciana.benotti@unc.edu.ar">luciana.benotti@unc.edu.ar</a>, she/her) is an Associate Professor at the Universidad Nacional de Córdoba, in Argentina. Her research interests cover many aspects of situated and grounded language, including the study of misunderstandings, bias, stereotypes, and clarification requests. She is the elected chair of the NAACL executive board, co-chair of the ACL ethics committee from 2024-2025, and is also serving as a member at large of the ACL Ethics committee.
+      </td>
+ </tr>
     <tr>
         <td><img src="https://i.imgur.com/AO2xNYk.jpeg" alt="Alvin Grissom II" class="portrait"></td>
         <td>
@@ -111,7 +117,7 @@ table th {
     <tr>
         <td><img src="https://i.imgur.com/x3x5rbO.jpeg" alt="Zhijing Jin" class="portrait"></td>
         <td>
-            <strong>Zhijing Jin</strong> (<a href="mailto:zjin@cs.toronto.edu">zjin@cs.toronto.edu</a>, she/her) is an incoming Assistant Professor at the University of Toronto, as well as a CIFAR AI Chair, ELLIS advisor, and faculty member at the Vector Institute. She will also hold a co-affiliation at Max Planck Institute for Intelligent Systems as a Research Scientist. Her research focuses on causal inference for NLP, with a focus on social good applications. Together with Rada Mihalcea and many others, she co-organizes many NLP for Positive Impact Workshops at *CL conferences, as well as the ACL Year-Round Mentorship.
+            <a href="https://zhijing-jin.com/"><strong>Zhijing Jin</strong></a> (<a href="mailto:zjin@cs.toronto.edu">zjin@cs.toronto.edu</a>, she/her) is an incoming Assistant Professor at the University of Toronto, as well as a CIFAR AI Chair, ELLIS advisor, faculty member at the Vector Institute, and faculty affiliate at the Schwartz Reisman Institute. She is currently a postdoc at Max Planck Institute for Intelligent Systems in Germany. Her research focuses on causal inference for NLP, with a focus on Responsible AI applications. Together with Rada Mihalcea and many others, she co-organizes many <a href="https://sites.google.com/view/nlp4positiveimpact">NLP for Positive Impact Workshops</a> at *CL conferences, as well as the <a href="https://mentorship.aclweb.org/"> ACL Year-Round Mentorship</a>.
         </td>
     </tr>
     <tr>
@@ -162,13 +168,19 @@ table th {
             <strong>Minzhi Li</strong> (<a href="mailto:li.minzhi@u.nus.edu">li.minzhi@u.nus.edu</a>, she/her) is a PhD candidate at the National University of Singapore. Her main research interest is socially-aware NLP.
         </td>
     </tr>
--->
+      <tr>
+        <td><img src="https://i.imgur.com/4Ov1ijA.jpeg" alt="Punya Syon Pandey" class="portrait"></td>
+        <td>
+            <a href="https://psyonp.github.io/"><strong>Punya Syon Pandey</strong></a> (<a href="mailto:punya.pandey@mail.utoronto.ca">punya.pandey@mail.utoronto.ca</a>, he/him) is a research assistant at the University of Toronto, in Canada. His work focuses on adversarial robustness in LLMs and evaluating multi-agent interactions.
+       </td>
+    </tr>
 </table>
 
 # Past Members of the ACL Ethics Committee
 
 - Luciana Benotti
 - Mark Drezde
+- Karën Fort - Served as Co-Chair (2024-2025) 
 - Pascale Fung
 - Dirk Hovy
 - Jin-Dong Kim

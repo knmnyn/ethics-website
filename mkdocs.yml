@@ -7,7 +7,7 @@ nav:
         - Instructors: roles/instructors.md
         - roles/organizers.md
         - roles/researchers.md
-        - reviewers: roles/reviewers.md
+        - Reviewers: roles/reviewers.md
   - Tutorials:
         - tutorials/index.md
         - "Past tutorials":
