@@ -119,7 +119,7 @@ table th {
         </td>
     </tr>
     <tr>
-        <td><img src="images/AN_photo2021-square.png" alt="Aurélie Névéol" class="portrait"></td>
+        <td><img src="/images/AN_photo2021-square.png" alt="Aurélie Névéol" class="portrait"></td>
         <td>
             <strong>Aurélie Névéol</strong> is a CNRS Researcher at LISN (formerly, LIMSI) working on clinical and biomedical Natural Language Processing. Her research interests include information extraction and knowledge representation in specialized domains. Her research addresses both methods and applications of biomedical text analysis, ranging from explorations of representation models and their cross-language or cross-domain adaptability, to the integration of representation frameworks to extract new medical knowledge from clinical text. She also has a strong interest in ethics issues related to the development, evaluation and deployment of Natural Language Processing systems.
         </td>
@@ -147,13 +147,19 @@ table th {
             <strong>Guido Ivetta</strong> (<a href="mailto:guidoivetta@mi.unc.edu.ar">guidoivetta@mi.unc.edu.ar</a>, he/him) is a PhD candidate at the Universidad Nacional de Córdoba, in Argentina. His work focuses on language model calibration and biases.
         </td>
     </tr>
+    <tr>
+        <td><img src="https://imgur.com/a/x4MJoMj.jpeg" alt="Punya Syon Pandey" class="portrait"></td>
+        <td>
+            <strong>Punya Syon Pandey</strong> (<a href="mailto:punya.pandey@mail.utoronto.ca">punya.pandey@mail.utoronto.ca</a>, he/him) is a research assistant at the University of Toronto, in Canada. His work focuses on adversarial robustness in LLMs and evaluating multi-agent interactions.
+       </td>
+    </tr>
 </table>
 
 # Past Members of the ACL Ethics Committee
 
-- Luciana Benotti
+- Luciana Benotti - Served as Co-Chair (2024-2025)
 - Mark Drezde
-- Karën Fort - Served as Co-Chair (2024-2025) 
+- Karën Fort - Served as Co-Chair (2021-2025) 
 - Pascale Fung
 - Dirk Hovy
 - Jin-Dong Kim
@@ -162,4 +168,4 @@ table th {
 
 # Past Stuent Members of the ACL Ethics Committee 
 
-- Minzhi Li
+- Minzhi Li - Served in 2024
