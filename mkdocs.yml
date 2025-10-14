@@ -35,7 +35,6 @@ nav:
           - "type-report": resources/ethics-reading-list/type-report.md
         - "Ethical Reviewing Recommendations":
           - resources/ethical-review-recommendations/index.md
-  - Schedule: schedule.md
   - Committee: committee.md
 theme:
   name: material
