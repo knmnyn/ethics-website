@@ -25,6 +25,7 @@ This list is intentionally kept with simple formatting in Markdown to allow mach
 
 ### Contributed by
 (put in alpha order by surname)
+
 * [Luciana Benotti](https://benotti.github.io/) (Universidad Nacional de Córdoba)
 * [Fanny Ducel](https://fannyducel.github.io/) (Université Paris-Saclay)
 * [Karën Fort](https://members.loria.fr/KFort/) (Sorbonne Université and LORIA)
@@ -35,6 +36,7 @@ This list is intentionally kept with simple formatting in Markdown to allow mach
 
 # Contents
 
+* [2024](#2025)
 * [2024](#2024)
 * [2023](#2023)
 * [2022](#2022)
