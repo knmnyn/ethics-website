@@ -17,9 +17,9 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
 
-      # List files in the root directory
-      - name: List files in root directory
+      # List files in the docs/resources/ethics-reading-list directory
+      - name: List files in ethics-reading-list directory
         run: |
           echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
-          ls -la
+          ls -la docs/resources/ethics-reading-list/
         
