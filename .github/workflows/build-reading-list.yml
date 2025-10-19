@@ -39,7 +39,7 @@ jobs:
       - name: Commit and push changes
         run: |
           git add .
-          git commit -am "new local commit"
+          git commit -am "Auto-generate topic files for ethics reading list"
           git push origin
 
       - run: echo "🍏 This job's status is ${{ job.status }}."
