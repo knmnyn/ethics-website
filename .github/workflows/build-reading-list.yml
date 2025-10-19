@@ -1,4 +1,4 @@
-name: List Root Directory Files
+name: Build Single Tag Versions
 on:
   push:
     branches: [ "main" ]
