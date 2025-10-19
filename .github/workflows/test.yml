@@ -15,11 +15,27 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v4
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
 
-      # List files in the docs/resources/ethics-reading-list directory
-      - name: List files in ethics-reading-list directory
+      - name: Create topic files in repository
         run: |
-          echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
-          ls -la docs/resources/ethics-reading-list/
-        
+          # multi-word tags
+          cd docs/resources/ethics-reading-list/
+          for n in "general%20resources general-resources" "crowdsourcing%20issues crowdsourcing-issues" "dual%20use dual-use" "model%20issues model-issues" "language%20diversity language-diversity" "environmental%20impact environmental-impact"; do a=( $n ); grep t-${a[0]} README.md > x-${a[1]}.md; cat single-file-header.md x-${a[1]}.md > t-${a[1]}.md; done
+          rm -f x-*
+          # single word tag
+          #for n in biases data evaluation uncategorized; do grep t-$n ${{ github.workspace }}/resources/ethics-reading-list/README.md > x-$n.md; cat #single-file-header.md x-$n.md > t-$n.md; done
+          #rm -f x-*
+
+      - name: setup git config
+        run: |
+          git config user.name "ACL Ethics Bibliography Actions Bot"
+          git config user.email "<>"
+
+      - name: commit
+        run: |
+          git add .
+          git commit -am "new local commit"
+          git push origin
