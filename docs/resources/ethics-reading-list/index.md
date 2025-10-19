@@ -81,20 +81,15 @@ We have tagged papers with several topic tags and bibliographic type.  You can c
 ### 2025
 [[Contents](#contents)]
 
-* Varoquaux G, Luccioni S, Whittaker M. 2025. Hype, Sustainability, and the Price of the Bigger-is-Better Paradigm in AI. In Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT '25):61–75  [[paper](https://doi.org/10.1145/3715275.3732006)] [![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)](t-environmental-impact.md)
-[![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+* Varoquaux G, Luccioni S, Whittaker M. 2025. Hype, Sustainability, and the Price of the Bigger-is-Better Paradigm in AI. In Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT '25):61–75  [[paper](https://doi.org/10.1145/3715275.3732006)] [![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)](t-environmental-impact.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
 
-
-*  Luccioni S, Strubell E, Crawford K. 2025. From Efficiency Gains to Rebound Effects: The Problem of Jevons' Paradox in AI's Polarized Environmental Debate. Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT '25):76–88. [[paper](https://doi.org/10.1145/3715275.3732007)] [![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)](t-environmental-impact.md)
-[![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+*  Luccioni S, Strubell E, Crawford K. 2025. From Efficiency Gains to Rebound Effects: The Problem of Jevons' Paradox in AI's Polarized Environmental Debate. Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT '25):76–88. [[paper](https://doi.org/10.1145/3715275.3732007)] [![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)](t-environmental-impact.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
 
 * Morand C, Névéol A, Ligozat AL. 2025. Does Efficiency Lead to Green Machine Learning Model Training? Analyzing Historical Trends in Impacts from Hardware, Algorithmic and Carbon Optimizations. [[paper](https://hal.science/hal-04839926v4/file/Does_efficiency_lead_to_green_ML.pdf)]  [![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)](t-environmental-impact.md) [![preprint](https://img.shields.io/badge/type-preprint-lightgrey)](type-preprint.md)
 
 * Mitchell M, Attanasio G, Baldini I, Clinciu M, Clive J, Delobelle P, Dey M, Hamilton S, Dill T, Doughman J, Dutt R, Ghosh A, Zosa Forde J, Holtermann C, Kaffee LA, Laud T, Lauscher A, Lopez-Davila RL, Masoud M, Nangia N, Ovalle A, Pistilli G, Radev D, Savoldi B, Raheja V, Qin J, Ploeger E, Subramonian A, Dhole K, Sun K, Djanibekov A, Mansurov J, Yin K, Villa Cueva E, Mukherjee S, Huang J, Shen X, Gala J, Al-Ali H, Djanibekov T, Mukhituly N, Nie S, Sharma S, Stanczak K, Szczechla E, Timponi Torrent T, Tunuguntla D, Viridiano M, Van Der Wal O, Yakefu A, Névéol A, Zhang M, Zink S, Talat Z. SHADES: Towards a Multilingual Assessment of Stereotypes in Large Language Models. Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers), 2025:11995–12041.  [[paper](https://aclanthology.org/2025.naacl-long.600.pdf)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
 
-
 * Ducel F, Hiebel N, Ferret O, Fort K, Névéol A. “Women do not have heart attacks!" Gender Biases in Automatically Generated Clinical Cases in French. Findings of the Association for Computational Linguistics: NAACL 2025:7145–7159. [[paper](https://aclanthology.org/2025.findings-naacl.398.pdf)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
-
   
 ### 2024
 
@@ -102,15 +97,11 @@ We have tagged papers with several topic tags and bibliographic type.  You can c
 
 * Karamolegkou, A., Hansen, S. S., Christopoulou, A., Stamatiou, F., Lauscher, A., & Søgaard, A. (2024). Ethical Concern Identification in NLP: A Corpus of ACL Anthology Ethics Statements. [[paper](https://arxiv.org/pdf/2411.07845)] [![General Resources](https://img.shields.io/badge/t-general%20resources-red)](t-general-resources.md) [![preprint](https://img.shields.io/badge/type-preprint-lightgrey)](type-preprint.md)
   
-
 * Kantharuban, A., Milbauer, J., Strubell, E., & Neubig, G. (2024). Stereotype or personalization? user identity biases chatbot recommendations [[paper](https://arxiv.org/pdf/2410.05613)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![preprint](https://img.shields.io/badge/type-preprint-lightgrey)](type-preprint.md)
 
+* Ducel F, Névéol A, Fort K. “You’ll be a nurse, my son!” Automatically assessing gender biases in autoregressive language models in French and Italian Language Resources and Evaluation. Springer, Berlin Heidelberg, Germany. 2024:1-29 [[paper](https://link.springer.com/article/10.1007/s10579-024-09780-6)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![Evaluation](https://img.shields.io/badge/t-evaluation-orange)](t-evaluation.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
 
-* Ducel F, Névéol A, Fort K. “You’ll be a nurse, my son!” Automatically assessing gender biases in autoregressive language models in French and Italian Language Resources and Evaluation. Springer, Berlin Heidelberg, Germany. 2024:1-29 [[paper](https://link.springer.com/article/10.1007/s10579-024-09780-6)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![Evaluation](https://img.shields.io/badge/t-evaluation-orange)](t-evaluation.md)
- [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
-
-* Morand C, Névéol A, Ligozat AL. MLCA: a tool for Machine Learning Life Cycle Assessment. International Conference on ICT for Sustainability (ICT4S). 2024. [[paper](https://hal.science/hal-04643414v1)] [![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)](t-environmental-impact.md)
- [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+* Morand C, Névéol A, Ligozat AL. MLCA: a tool for Machine Learning Life Cycle Assessment. International Conference on ICT for Sustainability (ICT4S). 2024. [[paper](https://hal.science/hal-04643414v1)] [![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)](t-environmental-impact.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
 
 * Amanda Cercas Curry, Giuseppe Attanasio, Zeerak Talat, and Dirk Hovy. (2024, August). Classist Tools: Social Class Correlates with Performance in NLP. In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 12643–12655, Bangkok, Thailand. Association for Computational Linguistics. [[paper](https://aclanthology.org/2024.acl-long.682.pdf)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
   
@@ -122,8 +113,7 @@ We have tagged papers with several topic tags and bibliographic type.  You can c
 
 [[Contents](#contents)]
 
-* Gustavo Gonçalves and Emma Strubell. 2023. Understanding the Effect of Model Compression on Social Bias in Large Language Models. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 2663–2675, Singapore. Association for Computational Linguistics. [[paper](https://aclanthology.org/2023.emnlp-main.161/)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![Model Issues](https://img.shields.io/badge/t-model%20issues-yellow)](t-model-issues.md)
- [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+* Gustavo Gonçalves and Emma Strubell. 2023. Understanding the Effect of Model Compression on Social Bias in Large Language Models. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 2663–2675, Singapore. Association for Computational Linguistics. [[paper](https://aclanthology.org/2023.emnlp-main.161/)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![Model Issues](https://img.shields.io/badge/t-model%20issues-yellow)](t-model-issues.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
 
 * Li, P., Yang, J., Islam, M. A., & Ren, S. (2023). Making ai less" thirsty": Uncovering and addressing the secret water footprint of ai models.  [[paper](https://arxiv.org/pdf/2304.03271)] [![preprint](https://img.shields.io/badge/type-preprint-lightgrey)](type-preprint.md) [![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)](t-environmental-impact.md)
 
