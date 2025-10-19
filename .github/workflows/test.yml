@@ -17,24 +17,26 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Check out repository code
         uses: actions/checkout@v4
-      - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
+
+      - name: Echo repository info
+        run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
 
       - name: Create topic files in repository
         run: |
           # multi-word tags
           cd docs/resources/ethics-reading-list/
-          for n in "general%20resources general-resources" "crowdsourcing%20issues crowdsourcing-issues" "dual%20use dual-use" "model%20issues model-issues" "language%20diversity language-diversity" "environmental%20impact environmental-impact"; do a=( $n ); grep t-${a[0]} README.md > x-${a[1]}.md; cat single-file-header.md x-${a[1]}.md > t-${a[1]}.md; done
+          for n in "general%20resources general-resources" "crowdsourcing%20issues crowdsourcing-issues" "dual%20use dual-use" "model%20issues model-issues" "language%20diversity language-diversity" "environmental%20impact environmental-impact"; do a=( $n ); grep t-${a[0]} index.md > x-${a[1]}.md; cat single-file-header.md x-${a[1]}.md > t-${a[1]}.md; done
           rm -f x-*
           # single word tag
           #for n in biases data evaluation uncategorized; do grep t-$n ${{ github.workspace }}/resources/ethics-reading-list/README.md > x-$n.md; cat #single-file-header.md x-$n.md > t-$n.md; done
           #rm -f x-*
 
-      - name: setup git config
+      - name: Setup git config
         run: |
           git config user.name "ACL Ethics Bibliography Actions Bot"
-          git config user.email "<>"
+          git config user.email "actions@github.com"
 
-      - name: commit
+      - name: Commit and push changes
         run: |
           git add .
           git commit -am "new local commit"
