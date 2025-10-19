@@ -25,12 +25,18 @@ jobs:
         run: |
           # multi-word tags
           cd docs/resources/ethics-reading-list/
-          for n in "general%20resources general-resources" "crowdsourcing%20issues crowdsourcing-issues" "dual%20use dual-use" "model%20issues model-issues" "language%20diversity language-diversity" "environmental%20impact environmental-impact"; do a=( $n ); grep t-${a[0]} index.md > x-${a[1]}.md; cat single-file-header.md x-${a[1]}.md > t-${a[1]}.md; done
+          for n in "general%20resources general-resources" "crowdsourcing%20issues crowdsourcing-issues" "dual%20use dual-use" "model%20issues model-issues" "language%20diversity language-diversity" "environmental%20impact environmental-impact"; do a=( $n ); grep t-${a[0]} index.md > x-${a[1]}.md; cat single-file-header.txt x-${a[1]}.md > t-${a[1]}.md; done
           rm -f x-*
           # single word tag
-          for n in biases data evaluation uncategorized; do grep t-$n index.md > x-$n.md; cat single-file-header.md x-$n.md > t-$n.md; done
+          for n in biases data evaluation uncategorized; do grep t-$n index.md > x-$n.md; cat single-file-header.txt x-$n.md > t-$n.md; done
           rm -f x-*
 
+      - name: Create type files in repository
+        run: |
+          cd docs/resources/ethics-reading-list/
+          for n in published preprint post report; do grep type-$n index.md > x-$n.md; cat single-file-header.txt x-$n.md > type-$n.md; done
+          rm -f x-*
+ 
       - name: Setup git config
         run: |
           git config user.name "ACL Ethics Bibliography Actions Bot"
