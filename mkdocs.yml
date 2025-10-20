@@ -17,8 +17,7 @@ nav:
   - Resources:
         - resources/index.md
         - "Reading List":
-          - resources/ethics-reading-list/index.md
-          - "topic-single-file-header": resources/ethics-reading-list/single-file-header.md
+          - "The Whole List": resources/ethics-reading-list/index.md
           - "topic-biases": resources/ethics-reading-list/t-biases.md
           - "topic-crowdsourcing-issues": resources/ethics-reading-list/t-crowdsourcing-issues.md
           - "topic-data": resources/ethics-reading-list/t-data.md
