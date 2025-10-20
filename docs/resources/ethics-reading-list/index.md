@@ -180,8 +180,7 @@ We have tagged papers with several topic tags and bibliographic type.  You can c
 
 ### 2021
 [[Contents](#contents)]
-* Abdalla, M. & Abdalla, M. (2021). The Grey Hoodie Project: Big Tobacco, Big Tech, and the Threat on Academic Integrity Proceedings of the 2021
-AAAI/ACM Conference on AI, Ethics, and Society, Association for Computing Machinery, 2021, 287-297. [[paper](https://dl.acm.org/doi/pdf/10.1145/3461702.3462563)] [![General Resources](https://img.shields.io/badge/t-general%20resources-red)](t-general-resources.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+* Abdalla, M. & Abdalla, M. (2021). The Grey Hoodie Project: Big Tobacco, Big Tech, and the Threat on Academic Integrity Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society, Association for Computing Machinery, 2021, 287-297. [[paper](https://dl.acm.org/doi/pdf/10.1145/3461702.3462563)] [![General Resources](https://img.shields.io/badge/t-general%20resources-red)](t-general-resources.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
 
 * Aka, O., Burke, K., Bäuerle, A., Greer, C., & Mitchell, M. (2021). Measuring Model Biases in the Absence of Ground Truth. DOI:10.1145/3461702.3462557. AIES '21: AAAI/ACM Conference on AI, Ethics, and Society. [[paper](https://arxiv.org/abs/2103.03417)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
 
@@ -280,8 +279,7 @@ AAAI/ACM Conference on AI, Ethics, and Society, Association for Computing Machin
 
 * Trebaol, M. J. T., Hartley, M.-A., & Ghadikolaei, H. S. (2020). A tool to quantify and report the carbon footprint of machine learning computations and communication in academia and healthcare. Infoscience EPFL: record 278189. [[report](https://infoscience.epfl.ch/record/278189/files/Msc_semester_project_report_TTre%CC%81baol_cumulator.pdf)] [![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)](t-environmental-impact.md) [![report](https://img.shields.io/badge/type-report-lightgrey)](type-report.md)
 
-* Vidgen, B., & Derczynski, L. (2020). Directions in abusive language training data, a systematic review: Garbage in, garbage out. PloS one, 15(12), e0243300.
-[[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243300)] [![Data](https://img.shields.io/badge/t-data-blue)](t-data.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+* Vidgen, B., & Derczynski, L. (2020). Directions in abusive language training data, a systematic review: Garbage in, garbage out. PloS one, 15(12), e0243300. [[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243300)] [![Data](https://img.shields.io/badge/t-data-blue)](t-data.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
 
 ### 2019
 [[Contents](#contents)]
