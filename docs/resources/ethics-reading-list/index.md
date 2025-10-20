@@ -99,7 +99,7 @@ We have tagged papers with several topic tags and bibliographic type.  You can c
 * Varoquaux, G., Luccioni, S., & Whittaker, M. (2025). Hype, Sustainability, and the Price of the Bigger-is-Better Paradigm in AI. In Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT '25):61–75  [[paper](https://doi.org/10.1145/3715275.3732006)] [![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)](t-environmental-impact.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
 
 ### 2024
-
+ 
 [[Contents](#contents)]
 
 * Ducel F, Névéol A, Fort K. “You’ll be a nurse, my son!” Automatically assessing gender biases in autoregressive language models in French and Italian Language Resources and Evaluation. Springer, Berlin Heidelberg, Germany. 2024:1-29 [[paper](https://link.springer.com/article/10.1007/s10579-024-09780-6)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![Evaluation](https://img.shields.io/badge/t-evaluation-orange)](t-evaluation.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
