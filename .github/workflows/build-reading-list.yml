@@ -24,19 +24,29 @@ jobs:
       - name: Check if index.md was changed
         id: check_changes
         run: |
-          # Check if there are multiple commits
-          if git rev-list --count HEAD > 1 2>/dev/null; then
-            if git diff --name-only HEAD~1 HEAD | grep -q "docs/resources/ethics-reading-list/index.md"; then
-              echo "The index.md file has been changed."
-              echo "changed=true" >> $GITHUB_OUTPUT
-            else
-              echo "The index.md file has not been changed."
+          # Calculate current MD5 hash of index.md
+          current_hash=$(md5sum "docs/resources/ethics-reading-list/index.md" | cut -d' ' -f1)
+          echo "Current hash: $current_hash"
+          
+          # Check if hash file exists and compare
+          if [ -f "docs/resources/ethics-reading-list/.index.md.hash" ]; then
+            stored_hash=$(cat "docs/resources/ethics-reading-list/.index.md.hash")
+            echo "Stored hash: $stored_hash"
+            
+            if [ "$current_hash" = "$stored_hash" ]; then
+              echo "The index.md file has not changed."
               echo "changed=false" >> $GITHUB_OUTPUT
+            else
+              echo "The index.md file has changed."
+              echo "changed=true" >> $GITHUB_OUTPUT
             fi
           else
-            echo "First commit or shallow clone - assuming file changed."
+            echo "No previous hash found - assuming file changed."
             echo "changed=true" >> $GITHUB_OUTPUT
           fi
+          
+          # Store current hash for next run
+          echo "$current_hash" > "docs/resources/ethics-reading-list/.index.md.hash"
 
       - name: Create topic files in repository
         if: steps.check_changes.outputs.changed == 'true'
@@ -67,5 +77,11 @@ jobs:
           git add .
           git commit -am "Auto-generate topic files for ethics reading list"
           git push origin
+      
+      - name: Commit hash file for change tracking
+        run: |
+          git add docs/resources/ethics-reading-list/.index.md.hash
+          git commit -m "Update index.md hash for change tracking" || echo "No changes to commit"
+          git push origin || echo "Nothing to push"
 
       - run: echo "🍏 This job's status is ${{ job.status }}."
