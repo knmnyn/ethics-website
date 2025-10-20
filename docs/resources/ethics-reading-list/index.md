@@ -31,9 +31,11 @@ This list is intentionally kept with simple formatting in Markdown to allow mach
 * [Karën Fort](https://members.loria.fr/KFort/) (Sorbonne Université and LORIA)
 * [Min-Yen Kan](http://www.comp.nus.edu.sg/~kanmy) (National University of Singapore)
 * [Yisong Miao](http://yisong.me) (National University of Singapore)
+* [Isar Nejadgholi](https://isarnejad.github.io/) (National Research Council Canada)
 * [Aurélie Névéol](https://perso.limsi.fr/neveol) (CNRS, Université Paris-Saclay)
 * [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/) (University of Washington)
 * [Keenan Samway](https://github.com/keenansamway) (Max Planck Institute for Intelligent Systems)
+* [Matthew Shardlow](https://www.mmu.ac.uk/staff/profile/dr-matthew-shardlow) (Manchester Metropolitan University)
 
 # Contents
 
