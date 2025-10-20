@@ -9,7 +9,9 @@ The papers are listed in the same order as the main bibliography; e.g., by year 
   
 [![report](https://img.shields.io/badge/type-report-lightgrey)](type-report.md)
 
-* Bender, Emily M., Friedman, B. and McMillan-Major, A. (2021). A Guide for Writing Data Statements for Natural Language Processing [[paper](https://techpolicylab.uw.edu/wp-content/uploads/2021/11/Data_Statements_Guide_V2.pdf)] ![Data](https://img.shields.io/badge/t-data-blue) [![report](https://img.shields.io/badge/type-report-lightgrey)](type-report.md)
+* Bender, Emily M., Friedman, B. and McMillan-Major, A. (2021). A Guide for Writing Data Statements for Natural Language Processing [[paper](https://techpolicylab.uw.edu/wp-content/uploads/2021/11/Data_Statements_Guide_V2.pdf)] [![Data](https://img.shields.io/badge/t-data-blue)](t-data.md) [![report](https://img.shields.io/badge/type-report-lightgrey)](type-report.md)
 
-* Moss, E., Watkins, E. A., Singh, R., Elish, M. C., & Metcalf, J. (2021). Assembling Accountability: Algorithmic Impact Assessment for the Public Interest. Available at SSRN 3877437. [[paper](https://apo.org.au/sites/default/files/resource-files/2021-06/apo-nid313046.pdf)] ![Data](https://img.shields.io/badge/t-data-blue) ![report](https://img.shields.io/badge/type-report-lightgrey)
+* Moss, E., Watkins, E. A., Singh, R., Elish, M. C., & Metcalf, J. (2021). Assembling Accountability: Algorithmic Impact Assessment for the Public Interest. Available at SSRN 3877437. [[paper](https://apo.org.au/sites/default/files/resource-files/2021-06/apo-nid313046.pdf)] [![Data](https://img.shields.io/badge/t-data-blue)](t-data.md) [![report](https://img.shields.io/badge/type-report-lightgrey)](type-report.md)
+
+* Trebaol, M. J. T., Hartley, M.-A., & Ghadikolaei, H. S. (2020). A tool to quantify and report the carbon footprint of machine learning computations and communication in academia and healthcare. Infoscience EPFL: record 278189. [[report](https://infoscience.epfl.ch/record/278189/files/Msc_semester_project_report_TTre%CC%81baol_cumulator.pdf)] [![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)](t-environmental-impact.md) [![report](https://img.shields.io/badge/type-report-lightgrey)](type-report.md)
 

@@ -9,15 +9,13 @@ The papers are listed in the same order as the main bibliography; e.g., by year 
   
 [![post](https://img.shields.io/badge/type-post-lightgrey)](type-post.md)
 
-* Kalluri P. (2020). Don't ask if artificial intelligence is good or fair, ask how it shifts power. Nature, 583(7815), 169. [[paper](https://media.nature.com/original/magazine-assets/d41586-020-02003-2/d41586-020-02003-2.pdf)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red)](t-general-resources.md) [![post](https://img.shields.io/badge/type-post-lightgrey)](type-post.md)
+* Kalluri P. (2020). Don't ask if artificial intelligence is good or fair, ask how it shifts power. Nature, 583(7815), 169. [[paper](https://media.nature.com/original/magazine-assets/d41586-020-02003-2/d41586-020-02003-2.pdf)] [![General Resources](https://img.shields.io/badge/t-general%20resources-red)](t-general-resources.md) [![post](https://img.shields.io/badge/type-post-lightgrey)](type-post.md)
 
-* Trebaol, M. J. T., Hartley, M.-A., & Ghadikolaei, H. S. (2020). A tool to quantify and report the carbon footprint of machine learning computations and communication in academia and healthcare. Infoscience EPFL: record 278189. [[report](https://infoscience.epfl.ch/record/278189/files/Msc_semester_project_report_TTre%CC%81baol_cumulator.pdf)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green) ![report](https://img.shields.io/badge/type-post-lightgrey)
-
-* Bender, E. M. (2019). The # benderrule: On naming the languages we study and why it matters. The Gradient, 14. [[paper](http://faculty.washington.edu/ebender/papers/BenderRule_TheGradient-refs.pdf)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet) ![post](https://img.shields.io/badge/type-post-lightgrey)
+* Bender, E. M. (2019). The # benderrule: On naming the languages we study and why it matters. The Gradient, 14. [[paper](http://faculty.washington.edu/ebender/papers/BenderRule_TheGradient-refs.pdf)] [![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet)](t-language-diversity.md) [![post](https://img.shields.io/badge/type-post-lightgrey)](type-post.md)
 
 <!-- * Broussard, M. (2018). Why the Scots are such a struggle for Alexa and Siri. The Herald,(Glasgow, UK), May, 11. ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet) ![post](https://img.shields.io/badge/type-post-lightgrey)-->
 
 <!--* Clark, J. (2016). Artificial intelligence has a ‘sea of dudes’ problem. Bloomberg Technology, 23. [[paper](https://www.bloomberg.com/news/articles/2016-06-23/artificial-intelligence-has-a-sea-of-dudes-problem)] ![Biases](https://img.shields.io/badge/t-biases-pink) ![post](https://img.shields.io/badge/type-post-lightgrey)-->
 
-* Larson, J., Angwin, J., & Parris, T. (2016). Breaking the black box: How machines learn to be racist. _ProPublica_. [[paper](https://www.propublica.org/article/breaking-the-black-box-how-machines-learn-to-be-racist)] ![Biases](https://img.shields.io/badge/t-biases-pink) ![post](https://img.shields.io/badge/type-post-lightgrey)
+* Larson, J., Angwin, J., & Parris, T. (2016). Breaking the black box: How machines learn to be racist. _ProPublica_. [[paper](https://www.propublica.org/article/breaking-the-black-box-how-machines-learn-to-be-racist)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![post](https://img.shields.io/badge/type-post-lightgrey)](type-post.md)
 
