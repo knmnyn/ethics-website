@@ -20,7 +20,7 @@ Budget extra time and resources to identify, invite, and support underrepresente
 ## 2. Reserve Sufficient Time for Ethical Review
 * Ethical and scientific reviews should be given comparable attention and time. Ensure your reviewing timeline explicitly includes adequate time for ethics review, not just technical evaluation.
 * See [Recommendations for Conference Chairs](../resources/ethical-review-recommendations/index.md#2-recommendations-for-conference-chairs) has a full rundown of the timeline; review it even before submitting your proposal. 
-* Engage us as the current [ACL Ethics Committee](../../commiitee/) early to help seed your ethics reviewer pool and to advise on review criteria and triage processes.
+* Engage us as the current [ACL Ethics Committee](../../committee/) early to help seed your ethics reviewer pool and to advise on review criteria and triage processes.
 
 ## 3. Signal that ethics is a first-order priority
 * Event webpages and calls for papers (CFPs) should clearly communicate ethical expectations and review policies. Include explicit ethics sections in CFPs, submission checklists, and reviewer guidelines.
