@@ -8,6 +8,6 @@ If you are involved in Natural Language Processing, whether as a researcher, edu
 
 - [**Authors**](authors.md) seeking guidance on ethical considerations for paper submissions
 - [**Instructors**](instructors.md) looking to incorporate ethics into NLP curricula
-- [**Organizers**](organisers.md) planning conferences with ethical guidelines in mind  
+- [**Organizers**](organizers.md) planning conferences with ethical guidelines in mind  
 - [**Researchers**](researchers.md) exploring responsible approaches to NLP development
 - [**Reviewers**](reviewers.md) evaluating submissions through an ethical lens
