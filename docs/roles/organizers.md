@@ -29,6 +29,19 @@ Budget extra time and resources to identify, invite, and support underrepresente
 
 # Organizers
 
-## Ethics Reviewing
+## 1. Form a Diverse Ethics Committee
 
-## 
+* Build a large and diverse ethics committee with people from different countries and continents with different genders. Members should know about different areas like fairness, privacy, environmental impact, worker welfare, and specific uses (like healthcare or law). Use term limits so new reviewers can join and avoid having the same people review every time. See the [NAACL 2021 committee](https://2021.naacl.org/ethics/committee/) as an example.
+* Assign papers to reviewers from different countries than the authors to reduce pressure from governments or institutions. Pair new ethics reviewers with experienced ones for guidance and to improve quality.
+
+## 2. Plan Enough Time and Manage Reviews
+* Post the ethics committee information and author guidelines **at least one month before** submissions open on the conference website and email lists. Give at least 2-3 weeks for ethics review in your timeline, with a clear deadline for when papers can be flagged. The full process, including helping authors fix issues in conditionally accepted papers, takes a long time and needs careful planning.
+* Set up clear steps for checking flagged papers, since some will not actually need full ethics review. Use tracking tools (like spreadsheets) to assign reviewers, watch ongoing reviews, and remind reviewers before deadlines. Make sure ethics chairs can access and use your conference platform (OpenReview, SoftConf). See [ethics review logistics](../resources/ethical-review-recommendations/index.md#ethics-review-logistics) for detailed steps.
+
+## 3. Define Scope and Document the Process
+* Make it clear that ethics chairs only review ethical issues in how the research was done, not the scientific quality or future uses beyond what authors discuss. State this clearly in reviewer guidelines and make sure the Responsible NLP checklist asks authors to confirm they had legal permission to use their data.
+* Write down details about the process using the [ACL ethics committee's documentation form](https://ethics.aclweb.org/), including how many papers were flagged for ethics review, actually reviewed, accepted with conditions, and rejected for ethical reasons. This helps future chairs plan their work and improves the process over time.
+
+## 4. Add Ethics to Calls for Papers and Policies
+* Include ethics guidelines clearly in all Calls for Papers (CFPs) and state that papers can be rejected for ethical problems. This early warning may stop people from submitting papers with clear ethical issues, like using workers without mentioning fair pay.
+* Use the same ethical rules for all conference tracks (main, student, industrial) and for Calls for Tutorials and Workshop Proposals. Workshop papers go into the ACL Anthology, so they must follow the same ethical rules as other papers. See [Call for Papers suggestions](../resources/ethical-review-recommendations/index.md#suggestions-for-call-for-paper) for more details.
