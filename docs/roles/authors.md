@@ -2,13 +2,14 @@
 hide:
   - navigation
   - toc
+  - title
 ---
 As authors, your role is crucial: your research and your participation in the scientific community have an impact. You need to try and make sure that you do not contribute to causing any harm. A few key principles to help you think about possible ethical issues and how to report them are listed down below:
 
 ## 1. Include ethics from the start, and throughout the pipeline
 Ethics is not an afterthought, and is not limited to filling an ethical consideration section or to tick boxes when submitting your papers. To make sure your research is not raising ethical concerns, ethical reflections should start from the conception of the experiment, and be present at all steps, then diligently reported in papers.
 
-Try and ask yourself questions about ethics while thinking about research questions, experiment and methodology design, tools and datasets choice/conception, tools evaluation, ... 
+Try and ask yourself questions about ethics while thinking about research questions, experiment and methodology design, tools and datasets choice/conception, and the evaluation of tools.
 
 The following principles are examples of elements to keep in mind and apply in your research, at every step.
 
@@ -47,11 +48,8 @@ Creating or collecting data raises a lot of ethical questions: was the collected
 ## 4. Ethics is a discussion: the more the merrier!
 Remember that ethics is not all about theory, but it is an ongoing, dynamic discussion. To enrich your perspectives, reach out to people around you: colleagues, students, even friends and family. Whether it is to discuss an ethical dilemma, to share your research ideas, or to brainstorm, it could enlarge your views and add perspectives you had not thought about.
 
-
 ## 5. Extend your knowledge on ethics
 The ACL Ethics Committee gathered resources on ethics and NLP. Please consult our [reading list](../resources/ethics-reading-list/index.md)!
-# End of Selection
-```
 
 The [ARR Responsible NLP Research](https://aclrollingreview.org/responsibleNLPresearch/) is also a useful, complementary resource to the present webpage. 
 

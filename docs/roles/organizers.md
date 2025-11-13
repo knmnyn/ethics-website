@@ -93,3 +93,7 @@ Establish clear processes for managing ethical concerns:
 * Ensure that ethics flags are addressed consistently and fairly across all submissions.
 
 By supporting a robust ethics review process, you help ensure that published research is rigorous, transparent, and mindful of its broader impacts. This protects the integrity of the field and helps build a more responsible and sustainable NLP community.
+
+## 10. Note Issues that have to do with Authors' Behavior with Respect to Professional Conduct and Publications
+
+Note that the ACL has a separate unit established for review of authors' and members' professional conduct — the [Professional Conduct Committee](https://www.aclweb.org/adminwiki/index.php/Professional_Conduct_Committee) (PCC).  There is also another unit for possible misbehaviour with respect to publications – the [Publication Ethics Committee](https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics) (PCC).  Both of these committees serve the ACL membership in adjudicating cases that involve operational concerns.  Actions on members of the community or their scientific output can include warnings, barring members from professional service, retracting papers, and ruling on improper behaviour with regards to authorship and AI use, among many other possible issues.  We advise organisers to be familiar with these committees and their services.
