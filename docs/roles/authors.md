@@ -37,8 +37,8 @@ Stating these limitations allows for better transparency, but also allows reader
 While your work was probably conducted with good intentions, it is important to consider if/how it could be misused and the risks it could create. Be especially careful about marginalized populations that could be even more impacted. If in doubt, feel free to discuss with others, and especially with possibly concerned people. If the risks seem too high, ask yourself if it is really worth it, and how so.
 
 ### Environmental impact
-If you used computational resources, your work had an environmental impact. This should be thought about while conceiving the experiment, in order to estimate the impact and try and see if less costly alternatives exist. For example, to use LLMs, libraries such as VLLM (https://docs.vllm.ai/en/latest/) exist and make inference faster and less environmentaly costly.
-In any case, you should report the used resources (GPUs, time, ...). Tools, such as https://calculator.green-algorithms.org/ or https://github.com/blubrom/MLCA, help you compute estimated environmental impact (carbon footprint, ...).
+If you used computational resources, your work had an environmental impact. This should be thought about while conceiving the experiment, in order to estimate the impact and try and see if less costly alternatives exist. For example, to use LLMs, libraries such as [VLLM](https://docs.vllm.ai/en/latest/) exist and make inference faster and less environmentally costly.
+In any case, you should report the used resources (GPUs, time, ...). Tools such as [Green Algorithms Carbon Footprint Calculator](https://calculator.green-algorithms.org/) or [MLCA: Machine Learning Carbon Accounts](https://github.com/blubrom/MLCA) can help you compute the estimated environmental impact (e.g., carbon footprint) of your experiments.
 
 ### About data collection/creation
 Creating or collecting data raises a lot of ethical questions: was the collected data under a permissive license/did the authors gave their informed consent? Is the resulting collection representative of different populations? Does it contain offensive content? Does it contain sensitive information? Was everything properly documented?
@@ -49,7 +49,9 @@ Remember that ethics is not all about theory, but it is an ongoing, dynamic disc
 
 
 ## 5. Extend your knowledge on ethics
-The ACL ethics committee gathered resources on ethics and NLP. Feel free to consult our [reading list](../resources/ethics-reading-list/) ! 
+The ACL Ethics Committee gathered resources on ethics and NLP. Please consult our [reading list](../resources/ethics-reading-list/index.md)!
+# End of Selection
+```
 
 The [ARR Responsible NLP Research](https://aclrollingreview.org/responsibleNLPresearch/) is also a useful, complementary resource to the present webpage. 
 
