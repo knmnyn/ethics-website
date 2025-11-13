@@ -47,14 +47,14 @@ You are not alone in making these judgments. The ACL ethics review process is de
 
 Engage with your fellow reviewers: in meta-reviews and discussions, raise ethical aspects alongside technical ones. This helps normalize ethics as part of standard reviewing practice. You can also build your own judgment through our tutorial resources:
 
-* *Case Studies*: Explore hands-on examples in our [Tutorial](https://ethics.aclweb.org/tutorials/) section to see how ethical dilemmas can arise in NLP research.
-* *Review Guidelines*: Refer to the *Ethical Review Recommendations* available in the [Resources](https://ethics.aclweb.org/resources/) section for structured guidance on assessing submissions.
+* *Case Studies*: Explore hands-on examples in our [Tutorial](../tutorials/) section to see how ethical dilemmas can arise in NLP research.
+* *Review Guidelines*: Refer to the *Ethical Review Recommendations* available in the [Resources](../resources/) section for structured guidance on assessing submissions.
 
 ## 5. Extend Your Knowledge on Ethics in Reviewing
 
 The ACL Ethics Committee has gathered resources to help reviewers deepen their understanding:
 
-* *[Ethics Reading List](https://ethics.aclweb.org/resources/ethics-reading-list/)*: Curated articles and ethics related resources for NLP researchers and practitioners moderated by the current ACL Ethics Committee.
+* *[Ethics Reading List](../resources/ethics-reading-list/)*: Curated articles and ethics related resources for NLP researchers and practitioners moderated by the current ACL Ethics Committee.
 * *[ARR Responsible NLP Research Guidelines](https://aclrollingreview.org/responsibleNLPresearch/)*: Comprehensive guide from ARR focused on evaluating responsible research practices.
 
 Ethics reviewing is about helping authors improve their work, ensuring fairness and transparency, and protecting the integrity of our field. By engaging with these tutorials and resources, you become an essential part of building a more responsible and sustainable NLP community that can positively benefit society.
