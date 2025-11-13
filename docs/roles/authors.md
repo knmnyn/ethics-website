@@ -49,8 +49,8 @@ Remember that ethics is not all about theory, but it is an ongoing, dynamic disc
 
 
 ## 5. Extend your knowledge on ethics
-The ACL ethics committee gathered resources on ethics and NLP. Feel free to consult our reading list https://ethics.aclweb.org/resources/ethics-reading-list/ ! 
+The ACL ethics committee gathered resources on ethics and NLP. Feel free to consult our [reading list](../resources/ethics-reading-list/) ! 
 
-The ARR Responsible NLP Research (https://aclrollingreview.org/responsibleNLPresearch/) is also a useful, complementary resource to the present webpage. 
+The [ARR Responsible NLP Research](https://aclrollingreview.org/responsibleNLPresearch/) is also a useful, complementary resource to the present webpage. 
 
 Remember that keeping yourself informed and raising awareness is a first, crucial step to aim at a more ethical research.
