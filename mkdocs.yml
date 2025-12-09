@@ -34,6 +34,8 @@ nav:
           - "type-report": resources/ethics-reading-list/type-report.md
         - "Ethical Reviewing Recommendations":
           - resources/ethical-review-recommendations/index.md
+        - "Ethics Committee Chairs Metadata at CL/NLP Conferences":
+          - resources/chairs-metadata/index.md
   - Committee: committee.md
 theme:
   name: material
