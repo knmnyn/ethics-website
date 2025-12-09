@@ -12,6 +12,8 @@ In this page, we will compile all relevant materials necessary for crafting ethi
 
 - **[Responsible Research Checklist](https://aclrollingreview.org/responsibleNLPresearch/)**: A checklist to help you think about your research and whether or not it complies with the ACL Code of Ethics. 
 
+- **[Ethics Committee Chairs Metadata at CL/NLP Conferences](https://ethics.aclweb.org/resources/chairs-metadata/)**: Metadata on Ethics Committee Chairs at major CL/NLP conferences, including review processes and paper statistics.
+
 - **[Ethical Review Recommendations](https://ethics.aclweb.org/resources/ethical-review-recommendations/)**: The ACL Ethics committee is currently working on a detailed document compiling all the information on ethical reviewing for reviewers, ethical reviewers, ethical chairs, and conference chairs.
 
 - **[Teaching Material](https://ethics.aclweb.org/tutorials/)**: The tutorials resources include material that can be re-used to teach ethics in an academic context.
