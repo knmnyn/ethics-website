@@ -41,4 +41,4 @@ An additional benefit is that, by the time you submit your paper, the checklist 
 ### Additional Resources
 * **Ethics Reviewers:** Learn what reviewers focus on during evaluation in the [Reviewers Guide](https://ethics.aclweb.org/roles/reviewers/).  
 * **Tutorials & Sessions:** Participate in future tutorials or Birds of a Feather (BoF) sessions at upcoming *CL conferences*. You can lead or join these sessions. Explore the [Tutorials Page](https://ethics.aclweb.org/tutorials/) for schedules and materials.  
-* **GitHub:** Access our past tutorial at EACL 2023 with further resources related to ethics in NLP research on our [GitHub repository]([https://github.com/acl-org/responsible-nlp](https://github.com/acl-org/ethics-tutorial)).  
+* **GitHub:** Access our past tutorial at EACL 2023 with further resources related to ethics in NLP research on our [GitHub repository](https://github.com/acl-org/ethics-tutorial).  
