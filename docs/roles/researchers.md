@@ -5,9 +5,9 @@ hide:
 ---
 You are visiting this page because you are concerned about the ethical dimensions of your research. The resources below are intended to help you ensure that your work is conducted in an ethically responsible manner.
 
-### [Responsible Research Checklist](https://aclrollingreview.org/static/responsibleNLPresearch.pdf)
+### Responsible Research Checklist
 
-This checklist should be an integral part of every research project involving Computational Linguistics and Natural Language Processing. It serves as a guide for formulating your research question and documenting ethical considerations throughout your project.
+This [checklist](https://aclrollingreview.org/static/responsibleNLPresearch.pdf) should be an integral part of every research project involving Computational Linguistics and Natural Language Processing. It serves as a guide for formulating your research question and documenting ethical considerations throughout your project.
 
 ### A. For Every Submission
 * **Limitations:** Discuss known weaknesses of your work.  
