@@ -89,7 +89,7 @@ table th {
         </td>
     </tr>
     <tr>
-        <td><img src="https://staticcdn.mbzuai.ac.ae/mbzuaiwpprd01/2024/01/monojit-choudhury-487px.jpg" alt="Monojit Chowdhury" class="portrait"></td>
+        <td><img src="/images/monojit-choudhury.jpg" alt="Monojit Chowdhury" class="portrait"></td>
         <td>
             <strong>Monojit Chowdhury</strong> (<a href="mailto:monojit.choudhury@mbzuai.ac.ae">monojit.choudhury@mbzuai.ac.ae</a>)
             Prior to joining MBZUAI, Professor Choudhury was a principal researcher at Microsoft Research India from 2009 to 2022 and a principal applied scientist at Microsoft Turing (part of Microsoft India Development Center) from 2022 to 2023. He is also an adjunct faculty at International Institute of Information Technology Hyderabad (since 2017) and a professor of practice at Plaksha University (since 2021). He was a recipient of the Media Lab Asia research fellowship from 2002 to 2007. Professor Choudhury has a US patent on automatic request categorization of Internet applications. He is also the general chair of the Panini Linguistics Olympiad (India’s national linguistics Olympiad) and founding co-chair of Asia Pacific Linguistics Olympiad. Professor Choudhury takes keen interest in popularizing linguistics and natural language processing among schoolchildren and non-experts through designing puzzles.
