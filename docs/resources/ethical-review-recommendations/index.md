@@ -132,7 +132,7 @@ Take into account the fact that some papers might be flagged for ethics and be f
 
 ### Document the process ![](https://img.shields.io/badge/Ethics_Reviewing_Recommendations_for_NLP/CL_Events-red)
 
-The ACL ethics committee’s website provides a dedicated form for documentation at [LINK](https://ethics.aclweb.org/).
+The ACL ethics committee’s website provides a dedicated form for documentation at [LINK](https://forms.office.com/pages/responsepage.aspx?id=Xu-lWwkxd06Fvc_rDTR-gkERCHVRGUFPn7MwpziS6p5UN084V0FDTEJUVE9DU0FMR0lFSVNZVUtGSy4u&route=shorturl).
 
 The documentation of the process will, among other things, help future ethics chairs to estimate their workload.
 
