@@ -89,9 +89,9 @@ table th {
         </td>
     </tr>
     <tr>
-        <td><img src="/images/monojit-choudhury.jpg" alt="Monojit Chowdhury" class="portrait"></td>
+        <td><img src="/images/monojit-choudhury.jpg" alt="Monojit Choudhury" class="portrait"></td>
         <td>
-            <strong>Monojit Chowdhury</strong> (<a href="mailto:monojit.choudhury@mbzuai.ac.ae">monojit.choudhury@mbzuai.ac.ae</a>, he/him) is a Professor of Natural Language Processing at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi. Before this, he was a principal researcher at Microsoft Research. His research interests include fairness and inclusion in NLP, focusing on under-represented languages and cultures.
+            <strong>Monojit Choudhury</strong> (<a href="mailto:monojit.choudhury@mbzuai.ac.ae">monojit.choudhury@mbzuai.ac.ae</a>, he/him) is a Professor of Natural Language Processing at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi. Before this, he was a principal researcher at Microsoft Research. His research interests include fairness and inclusion in NLP, focusing on under-represented languages and cultures.
         </td>
     </tr>
     <tr>
